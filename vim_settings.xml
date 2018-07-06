@@ -1,0 +1,247 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1530863094677">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" timestamp="1530865402732">
+        <mark key="'" line="66" column="6" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="4" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
+        <mark key="'" line="71" column="4" />
+      </file>
+      <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
+        <mark key="'" line="2315" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/services/btf-blocker-service.js" timestamp="1530779964693">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1530865679215">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
+        <mark key="'" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="^" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1530779575596">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
+        <mark key="'" line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
+        <mark key="'" line="11" column="16" />
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="3" />
+        <mark key="^" line="74" column="3" />
+        <mark key="." line="74" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/AdEngineRunner.js" timestamp="1530864692960">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="50" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="67" column="2" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="77" column="6" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="78" column="2" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="83" column="18" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="58" column="12" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="87" column="18" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="17" column="33" filename="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" />
+      <jump line="60" column="28" filename="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" />
+      <jump line="20" column="16" filename="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/ad-engine/README.md" />
+      <jump line="11" column="16" filename="$USER_HOME$/Projects/ad-engine/package.json" />
+      <jump line="47" column="9" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="71" column="4" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
+      <jump line="19" column="31" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" />
+      <jump line="0" column="16" filename="/Dummy.txt" />
+      <jump line="9" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" />
+      <jump line="2193" column="38" filename="/ctpMobileDataSource.js" />
+      <jump line="1665" column="15" filename="/ctpMobileDataSource.js" />
+      <jump line="64" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
+      <jump line="65" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
+      <jump line="66" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
+      <jump line="2315" column="44" filename="/ctpMobileDataSource.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="39" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="125" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="95" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="/" type="4">
+        <text>log</text>
+      </register>
+      <register name="0" type="4">
+        <text>ext.wikia.adEngine.adEngineRunner</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>log</last-search>
+      <last-offset />
+      <last-pattern>log</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>traffic</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>bundle</entry>
+        <entry encoding="base64">XDxub2RlXD4=</entry>
+        <entry>gpt</entry>
+        <entry encoding="base64">XDxjb250ZXh0T2JqZWN0XD4=</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
+        <entry>rabbit</entry>
+        <entry>country</entry>
+        <entry>traffic</entry>
+        <entry>verticvalName</entry>
+        <entry>verticalName</entry>
+        <entry>log</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
