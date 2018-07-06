@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="453d3f74-14b5-465f-8fe7-4c26024f5d48" name="devbox" url="http://dev-jjankowski">
+        <fileTransfer host="dev-jjankowski" port="22" rootFolder="/usr/wikia/source/app" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

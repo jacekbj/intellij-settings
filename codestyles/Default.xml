@@ -1,15 +1,8 @@
 <code_scheme name="Default" version="173">
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
-    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="INDENT_CHAINED_CALLS" value="false" />
-    <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
-  <Python>
-    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
-    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
-  </Python>
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -17,8 +10,5 @@
       <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
     </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Python">
-    <option name="RIGHT_MARGIN" value="100" />
   </codeStyleSettings>
 </code_scheme>
