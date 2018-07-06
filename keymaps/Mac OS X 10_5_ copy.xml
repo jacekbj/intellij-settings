@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
   <action id="EditorCutLineEnd" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
@@ -29,9 +32,6 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-  <action id="hg4idea.branches">
-    <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="hg4idea.pull">
     <keyboard-shortcut first-keystroke="alt l" />

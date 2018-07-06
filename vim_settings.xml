@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1530880625348">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530863094677">
+      <file name="/Dummy.txt" timestamp="1530881266915">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,8 +14,8 @@
         <mark key="'" line="66" column="6" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="4" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/code.py" timestamp="1530880994137">
         <mark key="[" line="0" column="0" />
@@ -60,15 +60,15 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
+      <file name="/JavaScript Console" timestamp="1530779575596">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="66" />
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1530779575596">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
         <mark key="'" line="18" column="42" />
@@ -246,34 +246,44 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyYWJiaXRSZXN1bHRzXD4=</entry>
-        <entry encoding="base64">XDxzbG90VGFyZ2V0aW5nRGF0YVw+</entry>
+        <entry>bundle</entry>
+        <entry encoding="base64">XDxub2RlXD4=</entry>
+        <entry>gpt</entry>
+        <entry encoding="base64">XDxjb250ZXh0T2JqZWN0XD4=</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
         <entry>rabbit</entry>
+        <entry>country</entry>
+        <entry>traffic</entry>
+        <entry>verticvalName</entry>
+        <entry>verticalName</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
