@@ -1,0 +1,23 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorChooseLookupItem" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="PropertyInspectorActions.EditValue" />
+</keymap>
