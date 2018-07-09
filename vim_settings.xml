@@ -42,6 +42,9 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
+        <mark key="'" line="91" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
       </file>
@@ -86,6 +89,9 @@
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" timestamp="1531145623370">
+        <mark key="'" line="55" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="67" column="2" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
@@ -112,6 +118,10 @@
       <jump line="65" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
       <jump line="66" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
       <jump line="2315" column="44" filename="/ctpMobileDataSource.js" />
+      <jump line="91" column="7" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" />
+      <jump line="149" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
+      <jump line="61" column="11" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
+      <jump line="55" column="16" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -190,7 +200,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxxc1w+</text>
       </register>
       <register name="0" type="4">
         <text>ext.wikia.adEngine.adEngineRunner</text>
@@ -235,12 +245,12 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxxc1w+</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern encoding="base64">XDxxc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>traffic</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -257,6 +267,9 @@
         <entry>verticvalName</entry>
         <entry>verticalName</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxyYWJiaXRcPg==</entry>
+        <entry encoding="base64">XDxpc0VuYWJsZWRcPg==</entry>
+        <entry encoding="base64">XDxxc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
