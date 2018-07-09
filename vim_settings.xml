@@ -6,47 +6,26 @@
       <file name="/start_script.py" timestamp="1530881805949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530881266915">
-        <mark key="'" line="0" column="16" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/code.py" timestamp="1531125871311">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
-        <mark key="'" line="71" column="4" />
-      </file>
-      <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
-        <mark key="'" line="2315" column="44" />
-      </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/btf-blocker-service.js" timestamp="1530779964693">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1530865679215">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="37" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/adeng-jupyter/config/config.ini" timestamp="1531126179604">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/adeng-jupyter/README.md" timestamp="1530881004090">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
-        <mark key="'" line="91" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" timestamp="1531121700548">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" timestamp="1531152067540">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="13" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
         <mark key="'" line="0" column="0" />
@@ -72,11 +51,16 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531119024944">
+        <mark key="'" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
         <mark key="'" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
-        <mark key="'" line="20" column="16" />
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/player/porvata/ima/google-ima-setup.js" timestamp="1531119336791">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
         <mark key="'" line="11" column="16" />
@@ -84,6 +68,63 @@
         <mark key="]" line="74" column="3" />
         <mark key="^" line="74" column="3" />
         <mark key="." line="74" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530881266915">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1531125871311">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
+        <mark key="'" line="71" column="4" />
+      </file>
+      <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
+        <mark key="'" line="2315" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" timestamp="1531122043748">
+        <mark key="'" line="127" column="7" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/markup.js" timestamp="1531153646895">
+        <mark key="'" line="32" column="10" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="29" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1530865679215">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/adeng-jupyter/config/config.ini" timestamp="1531126179604">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/adeng-jupyter/README.md" timestamp="1530881004090">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
+        <mark key="'" line="91" column="7" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/background.js" timestamp="1531149468939">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="29" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
+        <mark key="'" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/AdEngineRunner.js" timestamp="1530864692960">
         <mark key="[" line="14" column="18" />
@@ -122,6 +163,9 @@
       <jump line="149" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
       <jump line="61" column="11" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
       <jump line="55" column="16" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
+      <jump line="14" column="63" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="32" column="10" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -134,8 +178,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQknVGhpcyBpcyBhbHQnLAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -197,16 +241,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>+ el[1]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxc1w+</text>
+        <text>Page</text>
       </register>
-      <register name="0" type="4">
-        <text>ext.wikia.adEngine.adEngineRunner</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQknXG4nLAoJCQkJCSdQYWdlIHBhcmFtczonLAoJCQkJCS4uLmdwdFBhZ2VQYXJhbXMubWFwKGVsID0+ICcgICcgKyBlbFswXSArICc6ICcgKyBlbFsxXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknVGhpcyBpcyBhbHQnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -217,39 +261,39 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCU9iamVjdC5lbnRyaWVzKGdwdFBhZ2VQYXJhbXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCWdwdFBhZ2VQYXJhbXMudgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCS8vIGVsZW1lbnQuc3R5bGUuYmFja2dyb3VuZENvbG9yID0gJ3doaXRlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCS8vIGVsZW1lbnQuc3R5bGUuYmFja2dyb3VuZENvbG9yID0gJ3doaXRlJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbnN0IHNsb3RTaXplcyA9IDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknVGhpcyBpcyBhbHQgXG4gVGhpcyBpcyBzZWNvbmQgbGluZScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY2hyb21lLnJ1KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY2hyb21lKTsKY29uc29sZS5sb2coY2hyb21lLmV4dGVuc2lvbik7CmNvbnNvbGUubG9nKGNocm9tZS5leHRlbnNpb24uZ2V0VXJsKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxc1w+</last-search>
+      <last-search>Page</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxc1w+</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>traffic</last-substitute>
+      <last-pattern>Page</last-pattern>
+      <last-replace>Slot</last-replace>
+      <last-substitute>Page</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -267,12 +311,16 @@
         <entry>verticvalName</entry>
         <entry>verticalName</entry>
         <entry>log</entry>
-        <entry encoding="base64">XDxyYWJiaXRcPg==</entry>
-        <entry encoding="base64">XDxpc0VuYWJsZWRcPg==</entry>
-        <entry encoding="base64">XDxxc1w+</entry>
+        <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
+        <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
+        <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
+        <entry>Page</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>&quot;w</entry>
+        <entry>w\</entry>
+        <entry encoding="base64">JzwsJz5zL1BhZ2UvU2xvdC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
