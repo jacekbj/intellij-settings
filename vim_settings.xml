@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1530881805949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530881266915">
+      <file name="/Dummy.txt" timestamp="1531121793242">
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,6 +18,13 @@
       </file>
       <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
         <mark key="'" line="2315" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" timestamp="1531122043748">
+        <mark key="'" line="127" column="7" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/btf-blocker-service.js" timestamp="1530779964693">
         <mark key="[" line="8" column="0" />
@@ -39,6 +46,13 @@
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" timestamp="1531121700548">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="203" column="0" />
@@ -53,7 +67,7 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530779575596">
+      <file name="/JavaScript Console" timestamp="1531121134824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
@@ -63,11 +77,16 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531117964236">
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531119024944">
         <mark key="'" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
         <mark key="'" line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/player/porvata/ima/google-ima-setup.js" timestamp="1531119336791">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
         <mark key="'" line="20" column="16" />
@@ -110,6 +129,20 @@
       <jump line="66" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
       <jump line="2315" column="44" filename="/ctpMobileDataSource.js" />
       <jump line="4" column="2" filename="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" />
+      <jump line="57" column="26" filename="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" />
+      <jump line="15" column="11" filename="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" />
+      <jump line="123" column="8" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="125" column="8" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="128" column="6" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="72" column="9" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" />
+      <jump line="14" column="13" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="85" column="4" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="127" column="7" filename="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -122,8 +155,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -185,16 +218,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3JyZWxhdG9yXD4=</text>
+        <text encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ext.wikia.adEngine.adEngineRunner</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJcHJvdmlkZXIuZmx1c2goKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGRlZmluZWRTbG90cyA9IFtdOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -205,37 +238,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZXhwZWN0KHRydWUpLnRvLmJlLmZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJZXhwZWN0KHRydWUpLnRvLmJlLmZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQljb250ZXh0LnNldCgnb3B0aW9ucy50cmFja2luZ09wdEluJywgZmFsc2UpOwoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlwcm92aWRlciA9IG5ldyBHcHRQcm92aWRlcigpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsZXQgZGVmaW5lZFNsb3RzID0gZmlsZS5fX2dldF9fKCcnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3JyZWxhdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3JyZWxhdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>traffic</last-substitute>
       <last-dir>1</last-dir>
@@ -256,6 +289,8 @@
         <entry>verticalName</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
+        <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
+        <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
