@@ -10,7 +10,7 @@
         <mark key="'" line="0" column="16" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/code.py" timestamp="1531123915798">
+      <file name="/code.py" timestamp="1531125871311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
@@ -29,6 +29,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
         <mark key="^" line="37" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/adeng-jupyter/config/config.ini" timestamp="1531126179604">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/adeng-jupyter/README.md" timestamp="1530881004090">
         <mark key="[" line="17" column="0" />
@@ -118,8 +124,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -181,7 +187,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
