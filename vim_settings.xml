@@ -63,10 +63,12 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531117964236">
+        <mark key="'" line="4" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
         <mark key="'" line="18" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/setup.js" timestamp="1531117510111" />
       <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
         <mark key="'" line="20" column="16" />
       </file>
@@ -107,6 +109,7 @@
       <jump line="65" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
       <jump line="66" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpMobileDataSource.js" />
       <jump line="2315" column="44" filename="/ctpMobileDataSource.js" />
+      <jump line="4" column="2" filename="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -185,7 +188,7 @@
         <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxjb3JyZWxhdG9yXD4=</text>
       </register>
       <register name="0" type="4">
         <text>ext.wikia.adEngine.adEngineRunner</text>
@@ -230,9 +233,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxjb3JyZWxhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern encoding="base64">XDxjb3JyZWxhdG9yXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>traffic</last-substitute>
       <last-dir>1</last-dir>
@@ -252,6 +255,7 @@
         <entry>verticvalName</entry>
         <entry>verticalName</entry>
         <entry>log</entry>
+        <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
