@@ -6,6 +6,12 @@
       <file name="/start_script.py" timestamp="1530881805949">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/btf-blocker-service.js" timestamp="1530779964693">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -21,11 +27,12 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" timestamp="1531152067540">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-        <mark key="^" line="18" column="13" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" timestamp="1531158098227">
+        <mark key="'" line="13" column="16" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
         <mark key="'" line="0" column="0" />
@@ -89,12 +96,12 @@
         <mark key="^" line="14" column="9" />
         <mark key="." line="14" column="9" />
       </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/markup.js" timestamp="1531153646895">
-        <mark key="'" line="32" column="10" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="29" column="65" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/markup.js" timestamp="1531161063875">
+        <mark key="'" line="22" column="44" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1530865679215">
         <mark key="[" line="38" column="0" />
@@ -116,6 +123,11 @@
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
         <mark key="'" line="91" column="7" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/jquery.min.js" timestamp="1531155844081">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/background.js" timestamp="1531149468939">
         <mark key="[" line="13" column="31" />
@@ -166,6 +178,10 @@
       <jump line="14" column="63" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="24" column="8" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="32" column="10" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="13" column="16" filename="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" />
+      <jump line="35" column="14" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="25" column="44" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -179,7 +195,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQknVGhpcyBpcyBhbHQnLAo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -241,16 +257,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>+ el[1]</text>
+        <text>keyValuePair</text>
       </register>
       <register name="/" type="4">
-        <text>Page</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQknXG4nLAoJCQkJCSdQYWdlIHBhcmFtczonLAoJCQkJCS4uLmdwdFBhZ2VQYXJhbXMubWFwKGVsID0+ICcgICcgKyBlbFswXSArICc6ICcgKyBlbFsxXSksCg==</text>
+        <text encoding="base64">CQkJCQknPHVsPicgKyBncHRQYWdlUGFyYW1zLm1hcChlbCA9PiAnPGxpPicgKyBlbFswXSArICc6ICcgKyBlbFsxXSArICc8L2xpPicpLmpvaW4oJycpICsgJzwvdWw+JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQknVGhpcyBpcyBhbHQnLAo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -260,41 +276,43 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCU9iamVjdC5lbnRyaWVzKGdwdFBhZ2VQYXJhbXMpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CQkJCWNvbnN0IGFkID0gewoJCQkJCXBhZ2VQYXJhbXMsCgkJCQl9Ow==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWdwdFBhZ2VQYXJhbXMudgo=</text>
+        <text encoding="base64">CgkJCQllbGVtZW50LmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgKCkgPT4gewoJCQkJCWNvbnNvbGUubG9nKGNvbnRlbnQpOwoJCQkJfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vIGVsZW1lbnQuc3R5bGUuYmFja2dyb3VuZENvbG9yID0gJ3doaXRlJzsK</text>
+        <text encoding="base64">CQkJCWNvbnN0IGNvbnRlbnQgPSBbCgkJCQkJJ1Nsb3Qgc2l6ZXM6ICcgKyBhZC5nZXRBdHRyaWJ1dGUoJ2RhdGEtZ3B0LXNsb3Qtc2l6ZXMnKSwKCQkJCQknPGJyIC8+JywKCQkJCQknUGFnZSBwYXJhbXM6JywKCQkJCQknPHVsPicgKyBncHRQYWdlUGFyYW1zLm1hcChlbCA9PiAnPGxpPicgKyBlbFswXSArICc6ICcgKyBlbFsxXSArICc8L2xpPicpLmpvaW4oJycpICsgJzwvdWw+JywKCQkJCQknPGJyIC8+JywKCQkJCQknU2xvdCBwYXJhbXM6JywKCQkJCQknPHVsPicgKyBncHRTbG90UGFyYW1zLm1hcChlbCA9PiAnPGxpPicgKyBlbFswXSArICc6ICcgKyBlbFsxXSArICc8L2xpPicpLmpvaW4oJycpICsgJzwvdWw+JywKCQkJCV0uam9pbignPGJyIC8+Jyk7CgkJCQljb25zdCB0ZXh0RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwoJCQkJdGV4dEVsZW0uaW5uZXJIVE1MID0gY29udGVudDsKCQkJCWNvbnN0IHRvcEFkcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdXaWtpYVRvcEFkcycpOwoJCQkJdG9wQWRzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHRleHRFbGVtLCB0b3BBZHMpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCS8vIGVsZW1lbnQuc3R5bGUuYmFja2dyb3VuZENvbG9yID0gJ3doaXRlJzsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CQkJCWNvbnN0IGNvbnRlbnQgPSBbCgkJCQkJJ1Nsb3Qgc2l6ZXM6ICcgKyBhZC5nZXRBdHRyaWJ1dGUoJ2RhdGEtZ3B0LXNsb3Qtc2l6ZXMnKSwKCQkJCQknPGJyIC8+JywKCQkJCQknUGFnZSBwYXJhbXM6JywKCQkJCQknPHVsPicgKyBncHRQYWdlUGFyYW1zLm1hcChlbCA9PiAnPGxpPicgKyBlbFswXSArICc6ICcgKyBlbFsxXSArICc8L2xpPicpLmpvaW4oJycpICsgJzwvdWw+JywKCQkJCQknPGJyIC8+JywKCQkJCQknU2xvdCBwYXJhbXM6JywKCQkJCQknPHVsPicgKyBncHRTbG90UGFyYW1zLm1hcChlbCA9PiAnPGxpPicgKyBlbFswXSArICc6ICcgKyBlbFsxXSArICc8L2xpPicpLmpvaW4oJycpICsgJzwvdWw+JywKCQkJCV0uam9pbignPGJyIC8+Jyk7CgkJCQljb25zdCB0ZXh0RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwoJCQkJdGV4dEVsZW0uaW5uZXJIVE1MID0gY29udGVudDsKCQkJCWNvbnN0IHRvcEFkcyA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdXaWtpYVRvcEFkcycpOwoJCQkJdG9wQWRzLnBhcmVudE5vZGUuaW5zZXJ0QmVmb3JlKHRleHRFbGVtLCB0b3BBZHMpOwoKCQkJCWVsZW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCAoKSA9PiB7CgkJCQkJY29uc29sZS5sb2coY29udGVudCk7CgkJCQl9KTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHNsb3RTaXplcyA9IDsK</text>
+      <register name="6" type="4">
+        <text>: {
+						
+					}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQknVGhpcyBpcyBhbHQgXG4gVGhpcyBpcyBzZWNvbmQgbGluZScK</text>
+        <text encoding="base64">CQkJCWNvbnN0IGdwdFNsb3RQYXJhbXMgPSBPYmplY3QuZW50cmllcyhKU09OLnBhcnNlKGFkLmdldEF0dHJpYnV0ZSgnZGF0YS1ncHQtcGFnZS1wYXJhbXMnKSkpOwoJCQkJZ3B0U2xvdFBhcmFtcy5zb3J0KChhLCBiKSA9PiBhWzBdID4gYlswXSA/IDEgOiAoYVswXSA8IGJbMF0gPyAtMSA6IDApKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2hyb21lLnJ1KQo=</text>
+        <text encoding="base64">CmRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdoZWFkZXInKVswXS5zdHlsZS56SW5kZXggPSAnLTEnOwpkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnV2lraWFQYWdlJykuc3R5bGUuekluZGV4ID0gJy0xJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2hyb21lKTsKY29uc29sZS5sb2coY2hyb21lLmV4dGVuc2lvbik7CmNvbnNvbGUubG9nKGNocm9tZS5leHRlbnNpb24uZ2V0VXJsKTsK</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Page</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>Page</last-pattern>
-      <last-replace>Slot</last-replace>
-      <last-substitute>Page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-pattern>add</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -315,12 +333,16 @@
         <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
         <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
         <entry>Page</entry>
+        <entry>'</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>&quot;w</entry>
         <entry>w\</entry>
         <entry encoding="base64">JzwsJz5zL1BhZ2UvU2xvdC9n</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>x</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
