@@ -3,42 +3,113 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1530881805949">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" timestamp="1531210783617">
-        <mark key="'" line="15" column="8" />
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-        <mark key="^" line="4" column="38" />
+      <file name="$USER_HOME$/Projects/ad-engine/src/services/btf-blocker-service.js" timestamp="1530779964693">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/JWPlayerTag/scripts/jwplayertag.ads.js" timestamp="1531209045762" />
+      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" timestamp="1531211707280">
+        <mark key="'" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" timestamp="1531211853563">
-        <mark key="'" line="238" column="32" />
+      <file name="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" timestamp="1531121700548">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530779575596">
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" timestamp="1531219427911">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/App.vue" timestamp="1531229179300">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="^" line="203" column="0" />
+        <mark key="." line="203" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng.html" timestamp="1531213002602">
+        <mark key="'" line="0" column="14" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoListener.js" timestamp="1531211797107">
-        <mark key="'" line="54" column="11" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.ads.js" timestamp="1531208866012" />
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1531204772381">
-        <mark key="'" line="36" column="2" />
+      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/index.js" timestamp="1531204490824" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531220088941">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" timestamp="1531210213931">
-        <mark key="'" line="81" column="69" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530881266915">
-        <mark key="'" line="0" column="16" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.css" timestamp="1531215327687">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
-      <file name="/code.py" timestamp="1531125871311">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/main.js" timestamp="1531228035192">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531119024944">
+        <mark key="'" line="4" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
+        <mark key="'" line="18" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/video/player/porvata/ima/google-ima-setup.js" timestamp="1531119336791">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
+        <mark key="'" line="11" column="16" />
+        <mark key="[" line="74" column="4" />
+        <mark key="]" line="74" column="3" />
+        <mark key="^" line="74" column="3" />
+        <mark key="." line="74" column="3" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/HelloWorld.vue" timestamp="1531229134479">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
         <mark key="'" line="71" column="4" />
@@ -46,7 +117,20 @@
       <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
         <mark key="'" line="2315" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531210838481">
+      <file name="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" timestamp="1531122043748">
+        <mark key="'" line="127" column="7" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/markup.js" timestamp="1531215495481">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1530865679215">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -64,22 +148,45 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531211770353">
-        <mark key="'" line="11" column="94" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
+        <mark key="'" line="91" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531210585927" />
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.cookies.js" timestamp="1531209178400">
-        <mark key="'" line="27" column="27" />
+      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/video-players/jwplayer.js" timestamp="1531204465434" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.html" timestamp="1531218412968">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/jquery.min.js" timestamp="1531155844081">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/package.json" timestamp="1531219990768">
+        <mark key="[" line="6" column="65" />
+        <mark key="]" line="6" column="66" />
+        <mark key="^" line="6" column="65" />
+        <mark key="." line="6" column="66" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/background.js" timestamp="1531214511703">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
         <mark key="'" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/AdEngineRunner.js" timestamp="1530864692960">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" timestamp="1531145623370">
         <mark key="'" line="55" column="16" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.js" timestamp="1531229202874">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -111,30 +218,21 @@
       <jump line="149" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
       <jump line="61" column="11" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
       <jump line="55" column="16" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
-      <jump line="11" column="94" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" />
-      <jump line="95" column="67" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" />
-      <jump line="36" column="2" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.cookies.js" />
-      <jump line="26" column="27" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.cookies.js" />
-      <jump line="27" column="27" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.cookies.js" />
-      <jump line="38" column="21" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
-      <jump line="35" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
-      <jump line="81" column="69" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
-      <jump line="6" column="13" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" />
-      <jump line="14" column="15" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" />
-      <jump line="15" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" />
-      <jump line="11" column="40" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoListener.js" />
-      <jump line="54" column="11" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoListener.js" />
-      <jump line="208" column="29" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="220" column="29" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="226" column="33" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="227" column="49" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="230" column="67" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="231" column="51" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="234" column="58" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="235" column="42" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
-      <jump line="238" column="32" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="14" column="63" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="24" column="8" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="32" column="10" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="13" column="16" filename="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" />
+      <jump line="35" column="14" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" />
+      <jump line="0" column="14" filename="$USER_HOME$/Project/adeng-chrome-extension/adeng.html" />
+      <jump line="36" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="25" column="6" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
+      <jump line="33" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
+      <jump line="27" column="6" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
+      <jump line="19" column="15" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -147,8 +245,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -210,13 +308,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>track</text>
+        <text>exte</text>
       </register>
-      <register name="0" type="4">
-        <text>ext.wikia.adEngine.adEngineRunner</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCX0pOwoJCQl9KTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -230,67 +328,74 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gbmV3IFZ1ZSh7CgllbDogJyNpbnNwZWN0aW9uUmVzdWx0cycsCglkYXRhOiB7CgkJYWRzOiBbXSwKCQllcnJvcnM6IG51bGwsCgl9LAoJY3JlYXRlZDogZnVuY3Rpb24gKCkgewoJCXRoaXMuZmV0Y2hEYXRhKCk7Cgl9LAoJbWV0aG9kczogewoJCWZldGNoRGF0YTogZnVuY3Rpb24gKCkgewoJCQljaHJvbWUudGFicy5xdWVyeSh7YWN0aXZlOiB0cnVlLCBjdXJyZW50V2luZG93OiB0cnVlfSwgZnVuY3Rpb24odGFicykgewoJCQkJY2hyb21lLnRhYnMuc2VuZE1lc3NhZ2UodGFic1swXS5pZCwgeyBjb21tYW5kOiAnZG9NYWdpYyd9LCBmdW5jdGlvbihyZXNwb25zZSkgewoJCQkJCXRoaXMuYWRzID0gcmVzcG9uc2UuZGF0YSB8fCBbXTsKCQkJCQkvLyBjb25zdCByZXN1bHRzQm94RWxlbSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdpbnNwZWN0aW9uUmVzdWx0cycpOwoJCQkJCS8vIGNvbnN0IHJlc3VsdHNFbGVtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CgkJCQkJLy8KCQkJCQkvLyBmb3IgKGNvbnN0IGFkIG9mIHJlc3BvbnNlLmRhdGEpIHsKCQkJCQkvLyAJY29uc3QgcGFnZVBhcmFtc0xpc3QgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCd1bCcpOwoJCQkJCS8vIAlmb3IgKGNvbnN0IHBhZ2VQYXJhbSBvZiBhZC5wYWdlUGFyYW1zKSB7CgkJCQkJLy8gCQljb25zdCBsaXN0RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2xpJyk7CgkJCQkJLy8gCQlsaXN0RWxlbS5pbm5lclRleHQgPSBgJHtwYWdlUGFyYW1bMF19OiAke3BhZ2VQYXJhbVsxXX1gOwoJCQkJCS8vIAkJcGFnZVBhcmFtc0xpc3QuYXBwZW5kQ2hpbGQobGlzdEVsZW0pOwoJCQkJCS8vIAl9CgkJCQkJLy8KCQkJCQkvLyAJY29uc3Qgc2xvdFBhcmFtc0xpc3QgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCd1bCcpOwoJCQkJCS8vIAlmb3IgKGNvbnN0IHNsb3RQYXJhbSBvZiBhZC5zbG90UGFyYW1zKSB7CgkJCQkJLy8gCQljb25zdCBsaXN0RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2xpJyk7CgkJCQkJLy8gCQlsaXN0RWxlbS5pbm5lclRleHQgPSBgJHtzbG90UGFyYW1bMF19OiAke3Nsb3RQYXJhbVsxXX1gOwoJCQkJCS8vIAkJc2xvdFBhcmFtc0xpc3QuYXBwZW5kQ2hpbGQobGlzdEVsZW0pOwoJCQkJCS8vIAl9CgkJCQkJLy8KCQkJCQkvLyAJY29uc3QgYWRJZEVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdoMicpOwoJCQkJCS8vIAlhZElkRWxlbS5pbm5lclRleHQgPSBnZXRBZFR5cGUoYWQuaWQpOwoJCQkJCS8vCgkJCQkJLy8gCWNvbnN0IHNsb3RQYXJhbXNUaXRsZUVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdoNCcpOwoJCQkJCS8vIAlzbG90UGFyYW1zVGl0bGVFbGVtLmlubmVyVGV4dCA9ICdTbG90IHBhcmFtcyc7CgkJCQkJLy8KCQkJCQkvLyAJY29uc3QgcGFnZVBhcmFtc1RpdGxlRWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2g0Jyk7CgkJCQkJLy8gCXBhZ2VQYXJhbXNUaXRsZUVsZW0uaW5uZXJUZXh0ID0gJ1BhZ2UgcGFyYW1zJzsKCQkJCQkvLwoJCQkJCS8vIAlyZXN1bHRzRWxlbS5hcHBlbmRDaGlsZChhZElkRWxlbSk7CgkJCQkJLy8KCQkJCQkvLyAJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQocGFnZVBhcmFtc1RpdGxlRWxlbSk7CgkJCQkJLy8gCXJlc3VsdHNFbGVtLmFwcGVuZENoaWxkKHBhZ2VQYXJhbXNMaXN0KTsKCQkJCQkvLwoJCQkJCS8vIAlyZXN1bHRzRWxlbS5hcHBlbmRDaGlsZChzbG90UGFyYW1zVGl0bGVFbGVtKTsKCQkJCQkvLyAJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQoc2xvdFBhcmFtc0xpc3QpOwoJCQkJCS8vIH0KCQkJCQkvLyByZXN1bHRzQm94RWxlbS5hcHBlbmRDaGlsZChyZXN1bHRzRWxlbSk7CgkJCQl9KTsKCQkJfSk7CgkJfQoJfQp9KTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">LypnbG9iYWwgY2hyb21lICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aDMgewogIG1hcmdpbjogNDBweCAwIDA7Cn0KdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CmxpIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbWFyZ2luOiAwIDEwcHg7Cn0KYSB7CiAgY29sb3I6ICM0MmI5ODM7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhZHM6IFtdLAoJCWVycm9yczogbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQl9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>track</last-search>
+      <last-search>exte</last-search>
       <last-offset />
-      <last-pattern>track</last-pattern>
-      <last-replace>~</last-replace>
-      <last-substitute>traffic</last-substitute>
+      <last-pattern>exte</last-pattern>
+      <last-replace>slot</last-replace>
+      <last-substitute>page</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
+        <entry>gpt</entry>
+        <entry encoding="base64">XDxjb250ZXh0T2JqZWN0XD4=</entry>
         <entry>test</entry>
         <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
+        <entry>rabbit</entry>
         <entry>country</entry>
         <entry>traffic</entry>
         <entry>verticvalName</entry>
         <entry>verticalName</entry>
         <entry>log</entry>
-        <entry encoding="base64">XDxpc0VuYWJsZWRcPg==</entry>
-        <entry encoding="base64">XDxxc1w+</entry>
-        <entry encoding="base64">XDx3Z0FkRHJpdmVyUmFiYml0VGFyZ2V0aW5nS2V5VmFsdWVzXD4=</entry>
-        <entry>rabbit</entry>
-        <entry encoding="base64">XDxyYWJiaXRcPg==</entry>
-        <entry encoding="base64">XDxhdXRvcGxheUNvb2tpZU5hbWVcPg==</entry>
-        <entry>auto</entry>
-        <entry encoding="base64">XDx3aWxsQXV0b3BsYXlcPg==</entry>
-        <entry encoding="base64">XDxpbkZlYXR1cmVkVmlkZW9DbGlja1RvUGxheUFCVGVzdFw+</entry>
-        <entry encoding="base64">XDxhZENvbnRleHRcPg==</entry>
-        <entry encoding="base64">XDx0cmFja2VyXD4=</entry>
-        <entry encoding="base64">XDx0cmFja1Nsb3RcPg==</entry>
-        <entry>track</entry>
+        <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
+        <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
+        <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
+        <entry>'</entry>
+        <entry>add</entry>
+        <entry encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</entry>
+        <entry>Page</entry>
+        <entry>slot</entry>
+        <entry>page</entry>
+        <entry>exte</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>&quot;w</entry>
+        <entry>s/'/&quot;/g</entry>
+        <entry>x</entry>
+        <entry encoding="base64">JzwsJz5zL1BhZ2UvU2xvdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL3Nsb3QvcGFnZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL3BhZ2Uvc2xvdC9n</entry>
+        <entry>w\</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -314,9 +419,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
