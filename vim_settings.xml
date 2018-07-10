@@ -6,48 +6,32 @@
       <file name="/start_script.py" timestamp="1530881805949">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" timestamp="1531203845289" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" timestamp="1531210783617">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="4" column="38" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/JWPlayerTag/scripts/jwplayertag.ads.js" timestamp="1531209045762" />
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="203" column="0" />
-        <mark key="]" line="203" column="0" />
-        <mark key="^" line="203" column="0" />
-        <mark key="." line="203" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
+      <file name="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" timestamp="1531211853563">
+        <mark key="'" line="238" column="32" />
       </file>
       <file name="/JavaScript Console" timestamp="1530779575596">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoListener.js" timestamp="1531211797107">
+        <mark key="'" line="54" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.ads.js" timestamp="1531208866012" />
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1531204772381">
         <mark key="'" line="36" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
-        <mark key="'" line="11" column="16" />
-        <mark key="[" line="74" column="4" />
-        <mark key="]" line="74" column="3" />
-        <mark key="^" line="74" column="3" />
-        <mark key="." line="74" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" timestamp="1531209227552">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" timestamp="1531210213931">
+        <mark key="'" line="81" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1530881266915">
         <mark key="'" line="0" column="16" />
@@ -62,7 +46,7 @@
       <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
         <mark key="'" line="2315" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531204093083">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531210838481">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -80,10 +64,10 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531203896244">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531211770353">
         <mark key="'" line="11" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531209543874" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531210585927" />
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.cookies.js" timestamp="1531209178400">
         <mark key="'" line="27" column="27" />
       </file>
@@ -135,6 +119,22 @@
       <jump line="27" column="27" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.cookies.js" />
       <jump line="38" column="21" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
+      <jump line="81" column="69" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.instant.js" />
+      <jump line="6" column="13" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" />
+      <jump line="14" column="15" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" />
+      <jump line="15" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktop.js" />
+      <jump line="11" column="40" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoListener.js" />
+      <jump line="54" column="11" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoListener.js" />
+      <jump line="208" column="29" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="220" column="29" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="226" column="33" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="227" column="49" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="230" column="67" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="231" column="51" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="234" column="58" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="235" column="42" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
+      <jump line="238" column="32" filename="$USER_HOME$/Projects/app/resources/wikia/modules/tracker.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -148,7 +148,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -210,10 +210,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>auto</text>
+        <text>track</text>
       </register>
       <register name="0" type="4">
         <text>ext.wikia.adEngine.adEngineRunner</text>
@@ -258,9 +258,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auto</last-search>
+      <last-search>track</last-search>
       <last-offset />
-      <last-pattern>auto</last-pattern>
+      <last-pattern>track</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>traffic</last-substitute>
       <last-dir>1</last-dir>
@@ -268,10 +268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bundle</entry>
-        <entry encoding="base64">XDxub2RlXD4=</entry>
-        <entry>gpt</entry>
-        <entry encoding="base64">XDxjb250ZXh0T2JqZWN0XD4=</entry>
         <entry>test</entry>
         <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
         <entry>country</entry>
@@ -286,6 +282,12 @@
         <entry encoding="base64">XDxyYWJiaXRcPg==</entry>
         <entry encoding="base64">XDxhdXRvcGxheUNvb2tpZU5hbWVcPg==</entry>
         <entry>auto</entry>
+        <entry encoding="base64">XDx3aWxsQXV0b3BsYXlcPg==</entry>
+        <entry encoding="base64">XDxpbkZlYXR1cmVkVmlkZW9DbGlja1RvUGxheUFCVGVzdFw+</entry>
+        <entry encoding="base64">XDxhZENvbnRleHRcPg==</entry>
+        <entry encoding="base64">XDx0cmFja2VyXD4=</entry>
+        <entry encoding="base64">XDx0cmFja1Nsb3RcPg==</entry>
+        <entry>track</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
