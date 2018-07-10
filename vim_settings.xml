@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1530881805949">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="11" />
@@ -37,6 +34,12 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/App.vue" timestamp="1531229179300">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="203" column="0" />
@@ -65,9 +68,6 @@
         <mark key="." line="10" column="22" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1530779575596">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="66" />
@@ -80,6 +80,12 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/main.js" timestamp="1531228035192">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531119024944">
         <mark key="'" line="4" column="2" />
@@ -99,8 +105,11 @@
         <mark key="^" line="74" column="3" />
         <mark key="." line="74" column="3" />
       </file>
-      <file name="/code.py" timestamp="1531125871311">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/HelloWorld.vue" timestamp="1531229134479">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
         <mark key="'" line="71" column="4" />
@@ -172,12 +181,12 @@
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" timestamp="1531145623370">
         <mark key="'" line="55" column="16" />
       </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.js" timestamp="1531218388500">
-        <mark key="'" line="27" column="6" />
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="24" />
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.js" timestamp="1531229202874">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+        <mark key="." line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -220,10 +229,10 @@
       <jump line="36" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="25" column="6" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
       <jump line="33" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
       <jump line="27" column="6" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
+      <jump line="19" column="15" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -236,8 +245,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -299,13 +308,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>exte</text>
       </register>
-      <register name="0" type="4">
-        <text>inspectionResults</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCX0pOwoJCQl9KTsKCQl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -319,28 +328,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Y29uc3QgYXBwID0gbmV3IFZ1ZSh7CgllbDogJyNpbnNwZWN0aW9uUmVzdWx0cycsCglkYXRhOiB7CgkJYWRzOiBbXSwKCQllcnJvcnM6IG51bGwsCgl9LAoJY3JlYXRlZDogZnVuY3Rpb24gKCkgewoJCXRoaXMuZmV0Y2hEYXRhKCk7Cgl9LAoJbWV0aG9kczogewoJCWZldGNoRGF0YTogZnVuY3Rpb24gKCkgewoJCQljaHJvbWUudGFicy5xdWVyeSh7YWN0aXZlOiB0cnVlLCBjdXJyZW50V2luZG93OiB0cnVlfSwgZnVuY3Rpb24odGFicykgewoJCQkJY2hyb21lLnRhYnMuc2VuZE1lc3NhZ2UodGFic1swXS5pZCwgeyBjb21tYW5kOiAnZG9NYWdpYyd9LCBmdW5jdGlvbihyZXNwb25zZSkgewoJCQkJCXRoaXMuYWRzID0gcmVzcG9uc2UuZGF0YSB8fCBbXTsKCQkJCQkvLyBjb25zdCByZXN1bHRzQm94RWxlbSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdpbnNwZWN0aW9uUmVzdWx0cycpOwoJCQkJCS8vIGNvbnN0IHJlc3VsdHNFbGVtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CgkJCQkJLy8KCQkJCQkvLyBmb3IgKGNvbnN0IGFkIG9mIHJlc3BvbnNlLmRhdGEpIHsKCQkJCQkvLyAJY29uc3QgcGFnZVBhcmFtc0xpc3QgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCd1bCcpOwoJCQkJCS8vIAlmb3IgKGNvbnN0IHBhZ2VQYXJhbSBvZiBhZC5wYWdlUGFyYW1zKSB7CgkJCQkJLy8gCQljb25zdCBsaXN0RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2xpJyk7CgkJCQkJLy8gCQlsaXN0RWxlbS5pbm5lclRleHQgPSBgJHtwYWdlUGFyYW1bMF19OiAke3BhZ2VQYXJhbVsxXX1gOwoJCQkJCS8vIAkJcGFnZVBhcmFtc0xpc3QuYXBwZW5kQ2hpbGQobGlzdEVsZW0pOwoJCQkJCS8vIAl9CgkJCQkJLy8KCQkJCQkvLyAJY29uc3Qgc2xvdFBhcmFtc0xpc3QgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCd1bCcpOwoJCQkJCS8vIAlmb3IgKGNvbnN0IHNsb3RQYXJhbSBvZiBhZC5zbG90UGFyYW1zKSB7CgkJCQkJLy8gCQljb25zdCBsaXN0RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2xpJyk7CgkJCQkJLy8gCQlsaXN0RWxlbS5pbm5lclRleHQgPSBgJHtzbG90UGFyYW1bMF19OiAke3Nsb3RQYXJhbVsxXX1gOwoJCQkJCS8vIAkJc2xvdFBhcmFtc0xpc3QuYXBwZW5kQ2hpbGQobGlzdEVsZW0pOwoJCQkJCS8vIAl9CgkJCQkJLy8KCQkJCQkvLyAJY29uc3QgYWRJZEVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdoMicpOwoJCQkJCS8vIAlhZElkRWxlbS5pbm5lclRleHQgPSBnZXRBZFR5cGUoYWQuaWQpOwoJCQkJCS8vCgkJCQkJLy8gCWNvbnN0IHNsb3RQYXJhbXNUaXRsZUVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdoNCcpOwoJCQkJCS8vIAlzbG90UGFyYW1zVGl0bGVFbGVtLmlubmVyVGV4dCA9ICdTbG90IHBhcmFtcyc7CgkJCQkJLy8KCQkJCQkvLyAJY29uc3QgcGFnZVBhcmFtc1RpdGxlRWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2g0Jyk7CgkJCQkJLy8gCXBhZ2VQYXJhbXNUaXRsZUVsZW0uaW5uZXJUZXh0ID0gJ1BhZ2UgcGFyYW1zJzsKCQkJCQkvLwoJCQkJCS8vIAlyZXN1bHRzRWxlbS5hcHBlbmRDaGlsZChhZElkRWxlbSk7CgkJCQkJLy8KCQkJCQkvLyAJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQocGFnZVBhcmFtc1RpdGxlRWxlbSk7CgkJCQkJLy8gCXJlc3VsdHNFbGVtLmFwcGVuZENoaWxkKHBhZ2VQYXJhbXNMaXN0KTsKCQkJCQkvLwoJCQkJCS8vIAlyZXN1bHRzRWxlbS5hcHBlbmRDaGlsZChzbG90UGFyYW1zVGl0bGVFbGVtKTsKCQkJCQkvLyAJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQoc2xvdFBhcmFtc0xpc3QpOwoJCQkJCS8vIH0KCQkJCQkvLyByZXN1bHRzQm94RWxlbS5hcHBlbmRDaGlsZChyZXN1bHRzRWxlbSk7CgkJCQl9KTsKCQkJfSk7CgkJfQoJfQp9KTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2hyb21lLnRhYnMucXVlcnkoe2FjdGl2ZTogdHJ1ZSwgY3VycmVudFdpbmRvdzogdHJ1ZX0sIGZ1bmN0aW9uKHRhYnMpIHsKCWNocm9tZS50YWJzLnNlbmRNZXNzYWdlKHRhYnNbMF0uaWQsIHsgY29tbWFuZDogJ2RvTWFnaWMnfSwgZnVuY3Rpb24ocmVzcG9uc2UpIHsKCQljb25zdCByZXN1bHRzQm94RWxlbSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdpbnNwZWN0aW9uUmVzdWx0cycpOwoJCWNvbnN0IHJlc3VsdHNFbGVtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnZGl2Jyk7CgoJCWZvciAoY29uc3QgYWQgb2YgcmVzcG9uc2UuZGF0YSkgewoJCQljb25zdCBwYWdlUGFyYW1zTGlzdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3VsJyk7CgkJCWZvciAoY29uc3QgcGFnZVBhcmFtIG9mIGFkLnBhZ2VQYXJhbXMpIHsKCQkJCWNvbnN0IGxpc3RFbGVtID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnbGknKTsKCQkJCWxpc3RFbGVtLmlubmVyVGV4dCA9IGAke3BhZ2VQYXJhbVswXX06ICR7cGFnZVBhcmFtWzFdfWA7CgkJCQlwYWdlUGFyYW1zTGlzdC5hcHBlbmRDaGlsZChsaXN0RWxlbSk7CgkJCX0KCgkJCWNvbnN0IHNsb3RQYXJhbXNMaXN0ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgndWwnKTsKCQkJZm9yIChjb25zdCBzbG90UGFyYW0gb2YgYWQuc2xvdFBhcmFtcykgewoJCQkJY29uc3QgbGlzdEVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdsaScpOwoJCQkJbGlzdEVsZW0uaW5uZXJUZXh0ID0gYCR7c2xvdFBhcmFtWzBdfTogJHtzbG90UGFyYW1bMV19YDsKCQkJCXNsb3RQYXJhbXNMaXN0LmFwcGVuZENoaWxkKGxpc3RFbGVtKTsKCQkJfQoKCQkJY29uc3QgYWRJZEVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdoMicpOwoJCQlhZElkRWxlbS5pbm5lclRleHQgPSBnZXRBZFR5cGUoYWQuaWQpOwoKCQkJY29uc3Qgc2xvdFBhcmFtc1RpdGxlRWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2g0Jyk7CgkJCXNsb3RQYXJhbXNUaXRsZUVsZW0uaW5uZXJUZXh0ID0gJ1Nsb3QgcGFyYW1zJzsKCgkJCWNvbnN0IHBhZ2VQYXJhbXNUaXRsZUVsZW0gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdoNCcpOwoJCQlwYWdlUGFyYW1zVGl0bGVFbGVtLmlubmVyVGV4dCA9ICdQYWdlIHBhcmFtcyc7CgoJCQlyZXN1bHRzRWxlbS5hcHBlbmRDaGlsZChhZElkRWxlbSk7CgoJCQlyZXN1bHRzRWxlbS5hcHBlbmRDaGlsZChwYWdlUGFyYW1zVGl0bGVFbGVtKTsKCQkJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQocGFnZVBhcmFtc0xpc3QpOwoKCQkJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQoc2xvdFBhcmFtc1RpdGxlRWxlbSk7CgkJCXJlc3VsdHNFbGVtLmFwcGVuZENoaWxkKHNsb3RQYXJhbXNMaXN0KTsKCQl9CgkJcmVzdWx0c0JveEVsZW0uYXBwZW5kQ2hpbGQocmVzdWx0c0VsZW0pOwoJfSk7Cn0pOwo=</text>
+        <text encoding="base64">LypnbG9iYWwgY2hyb21lICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWRlbmcgZXh0ZW5zaW9uCg==</text>
+        <text encoding="base64">aDMgewogIG1hcmdpbjogNDBweCAwIDA7Cn0KdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CmxpIHsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgbWFyZ2luOiAwIDEwcHg7Cn0KYSB7CiAgY29sb3I6ICM0MmI5ODM7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIChhZElkLmluY2x1ZGVzKQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlhZHM6IFtdLAoJCWVycm9yczogbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJY29uc3QgcGFyYW1zQm94RWxlbSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2RpdicpOwoJCQkK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcmVzdWx0c0VsZW0uYXBwZW5kQ2hpbGQK</text>
+        <text encoding="base64">CQkJCQl9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJY29uc3QgYWRkRGF0YSA9IHt9Owo=</text>
+        <text encoding="base64">fSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
