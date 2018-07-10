@@ -17,6 +17,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" timestamp="1531211707280">
+        <mark key="'" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
       </file>
@@ -140,10 +143,6 @@
       <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
         <mark key="'" line="20" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/AdEngineRunner.js" timestamp="1530864692960">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" timestamp="1531145623370">
         <mark key="'" line="55" column="16" />
       </file>
@@ -184,6 +183,7 @@
       <jump line="35" column="14" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="25" column="44" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,7 +262,7 @@
         <text>keyValuePair</text>
       </register>
       <register name="/" type="4">
-        <text>add</text>
+        <text encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQknPHVsPicgKyBncHRQYWdlUGFyYW1zLm1hcChlbCA9PiAnPGxpPicgKyBlbFswXSArICc6ICcgKyBlbFsxXSArICc8L2xpPicpLmpvaW4oJycpICsgJzwvdWw+JywK</text>
@@ -309,9 +309,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add</last-search>
+      <last-search encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>add</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -337,6 +337,7 @@
         <entry>Page</entry>
         <entry>'</entry>
         <entry>add</entry>
+        <entry encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
