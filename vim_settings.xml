@@ -87,6 +87,13 @@
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
         <mark key="'" line="18" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" timestamp="1531297252005">
+        <mark key="'" line="147" column="2" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
         <mark key="'" line="11" column="16" />
         <mark key="[" line="74" column="4" />
@@ -259,6 +266,13 @@
       <jump line="17" column="20" filename="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/themes/hivi/hivi.js" />
       <jump line="409" column="0" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/themes/hivi/hivi.js" />
+      <jump line="91" column="9" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
+      <jump line="95" column="2" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
+      <jump line="90" column="9" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
+      <jump line="151" column="9" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
+      <jump line="94" column="9" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
+      <jump line="147" column="2" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -271,8 +285,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CWRlYnVnZ2VyOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -337,13 +351,13 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text encoding="base64">XDxzZXRVYXBJZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPGxpPkNyZWF0aXZlU2l6ZToge3sgYWQuY3JlYXRpdmVTaXplIH19PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPkxpbmUgaXRlbSBpRDoge3sgYWQuY3JlYXRpdmVTaXplIH19PC9saT4K</text>
+        <text encoding="base64">CWRlYnVnZ2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -354,47 +368,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHNsb3RQYXJhbXMgPSBPYmplY3QuZW50cmllcyhKU09OLnBhcnNlKGFkLmdldEF0dHJpYnV0ZSgnZGF0YS1ncHQtc2xvdC1wYXJhbXMnKSkpCgkJCQkJLnNvcnQocGFpckZpcnN0SXRlbUNvbXBhcmF0b3IpOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKGdldFVhcElkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPkxpbmUgaXRlbSBpRDoge3sgYWQuY3JlYXRpdmVTaXplIH19PC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGgyIHsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB9CiAgICAucGFyYW1zIHsKICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgfQogICAgLnBhcmFtIHsKICAgICAgICB3aWR0aDogNTAlOwogICAgfQogICAgbGkgewogICAgICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICAgIH0KICAgIGxpLmhlYWRlciB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgIH0K</text>
+        <text encoding="base64">CQkJCWNvbnN0IHNsb3RQYXJhbXMgPSBPYmplY3QuZW50cmllcyhKU09OLnBhcnNlKGFkLmdldEF0dHJpYnV0ZSgnZGF0YS1ncHQtc2xvdC1wYXJhbXMnKSkpCgkJCQkJLnNvcnQocGFpckZpcnN0SXRlbUNvbXBhcmF0b3IpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8QWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">QWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGl2IHYtZm9yPSJhZCBpbiBhZHMiIDprZXk9ImFkLmtleSIgY2xhc3M9ImFkIj4KCQkJPGgyPnt7IGdldEFkVHlwZShhZC5pZCkgfX08L2gyPgogICAgICAgICAgICA8dWwgY2xhc3M9ImhlYWRlciI+CiAgICAgICAgICAgICAgICA8bGk+SWQ6IHt7IGFkLmlkIH19PC9saT4KICAgICAgICAgICAgICAgIDxsaT5Hb29nbGUgcXVlcnkgSWQ6IHt7IGFkLmdvb2dsZVF1ZXJ5SWQgfX08L2xpPgogICAgICAgICAgICAgICAgPGxpPkNyZWF0aXZlIElkOiB7eyBhZC5jcmVhdGl2ZUlkIH19PC9saT4KICAgICAgICAgICAgICAgIDxsaT5DcmVhdGl2ZVNpemU6IHt7IGFkLmNyZWF0aXZlU2l6ZSB9fTwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InBhcmFtcyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwYXJhbSI+CiAgICAgICAgICAgICAgICAgICAgPGg0PlBhZ2UgcGFyYW1zPC9oND4KICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0icGFnZVBhcmFtUGFpciBvZiBhZC5wYWdlUGFyYW1zIiA6a2V5PSJwYWdlUGFyYW1QYWlyWzBdIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHBhZ2VQYXJhbVBhaXJbMF0gfX06IHt7IHBhZ2VQYXJhbVBhaXJbMV0gfX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwYXJhbSI+CiAgICAgICAgICAgICAgICAgICAgPGg0PlNsb3QgcGFyYW1zPC9oND4KICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0ic2xvdFBhcmFtUGFpciBvZiBhZC5zbG90UGFyYW1zIiA6a2V5PSJzbG90UGFyYW1QYWlyWzBdIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHNsb3RQYXJhbVBhaXJbMF0gfX06IHt7IHNsb3RQYXJhbVBhaXJbMV0gfX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoJCTwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIGgyIHsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB9CiAgICAucGFyYW1zIHsKICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgfQogICAgLnBhcmFtIHsKICAgICAgICB3aWR0aDogNTAlOwogICAgfQogICAgbGkgewogICAgICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICAgIH0KICAgIGxpLmhlYWRlciB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search encoding="base64">XDxzZXRVYXBJZFw+</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRVYXBJZFw+</last-pattern>
       <last-replace>slot</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
-        <entry>rabbit</entry>
-        <entry>country</entry>
         <entry>traffic</entry>
         <entry>verticvalName</entry>
         <entry>verticalName</entry>
@@ -412,6 +423,9 @@
         <entry encoding="base64">XDxwYWdlUGFyYW1zRGF0YVw+</entry>
         <entry>Page</entry>
         <entry>page</entry>
+        <entry encoding="base64">XDxnZXRVYXBJZFw+</entry>
+        <entry encoding="base64">XDx1YXBJZFw+</entry>
+        <entry encoding="base64">XDxzZXRVYXBJZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
