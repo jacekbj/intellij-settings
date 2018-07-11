@@ -34,6 +34,9 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/src/ad-engine.bridge.js" timestamp="1531297238500">
+        <mark key="'" line="193" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/App.vue" timestamp="1531229179300">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="6" />
@@ -61,7 +64,7 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/index.js" timestamp="1531204490824" />
+      <file name="$USER_HOME$/Projects/app/skins/oasis/js/Tracking.js" timestamp="1531295294510" />
       <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531220088941">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="10" column="22" />
@@ -151,7 +154,6 @@
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
         <mark key="'" line="91" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/video-players/jwplayer.js" timestamp="1531204465434" />
       <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.html" timestamp="1531218412968">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="9" column="17" />
@@ -177,6 +179,13 @@
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
         <mark key="'" line="20" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" timestamp="1531297175852">
+        <mark key="'" line="83" column="17" />
+        <mark key="[" line="63" column="12" />
+        <mark key="]" line="63" column="8" />
+        <mark key="^" line="63" column="8" />
+        <mark key="." line="63" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" timestamp="1531145623370">
         <mark key="'" line="55" column="16" />
@@ -233,6 +242,15 @@
       <jump line="33" column="4" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
       <jump line="27" column="6" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
       <jump line="19" column="15" filename="$USER_HOME$/Project/adeng-chrome-extension/popup.js" />
+      <jump line="64" column="51" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" />
+      <jump line="75" column="17" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" />
+      <jump line="89" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" />
+      <jump line="93" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" />
+      <jump line="97" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/src/ad-engine.bridge.js" />
+      <jump line="83" column="17" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/slot/floatingMedrec.js" />
+      <jump line="39" column="20" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/src/ad-engine.bridge.js" />
+      <jump line="193" column="4" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/src/ad-engine.bridge.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -311,7 +329,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>exte</text>
+        <text encoding="base64">XDx1bml2ZXJzYWxBZFBhY2thZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCX0pOwoJCQl9KTsKCQl9Cg==</text>
@@ -356,24 +374,16 @@
       </register>
     </registers>
     <search>
-      <last-search>exte</last-search>
+      <last-search encoding="base64">XDx1bml2ZXJzYWxBZFBhY2thZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>exte</last-pattern>
+      <last-pattern encoding="base64">XDx1bml2ZXJzYWxBZFBhY2thZ2VcPg==</last-pattern>
       <last-replace>slot</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gpt</entry>
-        <entry encoding="base64">XDxjb250ZXh0T2JqZWN0XD4=</entry>
-        <entry>test</entry>
-        <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
-        <entry>rabbit</entry>
-        <entry>country</entry>
-        <entry>traffic</entry>
-        <entry>verticvalName</entry>
         <entry>verticalName</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
@@ -386,6 +396,14 @@
         <entry>slot</entry>
         <entry>page</entry>
         <entry>exte</entry>
+        <entry>hivi</entry>
+        <entry>Hi</entry>
+        <entry encoding="base64">XDxzaG93UmVjaXJjdWxhdGlvblw+</entry>
+        <entry encoding="base64">XDxzd2FwUmVjaXJjdWxhdGlvbkFuZEFkXD4=</entry>
+        <entry encoding="base64">XDxyZWZyZXNoQWRcPg==</entry>
+        <entry>Loaded</entry>
+        <entry>universal</entry>
+        <entry encoding="base64">XDx1bml2ZXJzYWxBZFBhY2thZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
