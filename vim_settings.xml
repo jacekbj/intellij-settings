@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" timestamp="1531313801060">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="41" />
+        <mark key="^" line="17" column="41" />
+        <mark key="." line="17" column="41" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="11" />
@@ -16,6 +23,12 @@
       </file>
       <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" timestamp="1531211707280">
         <mark key="'" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" timestamp="1531312545062">
+        <mark key="[" line="31" column="32" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
@@ -54,14 +67,13 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1531312602685">
+        <mark key="'" line="17" column="31" />
+        <mark key="[" line="6" column="60" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/index.js" timestamp="1531204490824" />
       <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531230998294">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -157,7 +169,9 @@
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/tracking/adInfoTracker.js" timestamp="1531145562471">
         <mark key="'" line="91" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/video-players/jwplayer.js" timestamp="1531204465434" />
+      <file name="$USER_HOME$/Projects/app/resources/wikia/libraries/define.mock.js" timestamp="1531313880933">
+        <mark key="'" line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531288874105">
         <mark key="'" line="20" column="83" />
         <mark key="[" line="52" column="31" />
@@ -257,6 +271,8 @@
       <jump line="20" column="83" filename="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" />
       <jump line="20" column="16" filename="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" />
       <jump line="17" column="20" filename="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/app/resources/wikia/libraries/define.mock.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -269,8 +285,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IGRhdGFQYWdlUGFyYW1zID0gYWQuZ2V0QXR0cmlidXRlKCdkYXRhLWdwdC1wYWdlLXBhcmFtcycpOwoJCQkJY29uc3QgcGFnZVBhcmFtcyA9IGRhdGFQYWdlUGFyYW1zID8gCgkJCQkJT2JqZWN0LmVudHJpZXMoSlNPTi5wYXJzZShkYXRhUGFnZVBhcmFtcykpLnNvcnQocGFpckZpcnN0SXRlbUNvbXBhcmF0b3IpCgkJCQkJOiBbXTsK</text>
+      <register name="&quot;" type="4">
+        <text>define</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -332,16 +348,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>define</text>
       </register>
       <register name="/" type="4">
-        <text>page</text>
+        <text encoding="base64">XDxtb2R1bGVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCWNvbnN0IGRhdGFQYWdlUGFyYW1zID0gYWQuZ2V0QXR0cmlidXRlKCdkYXRhLWdwdC1wYWdlLXBhcmFtcycpOwoJCQkJY29uc3QgcGFnZVBhcmFtcyA9IGRhdGFQYWdlUGFyYW1zID8gCgkJCQkJT2JqZWN0LmVudHJpZXMoSlNPTi5wYXJzZShkYXRhUGFnZVBhcmFtcykpLnNvcnQocGFpckZpcnN0SXRlbUNvbXBhcmF0b3IpCgkJCQkJOiBbXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWNvbnN0IHNsb3RQYXJhbXMgPSBPYmplY3QuZW50cmllcyhKU09OLnBhcnNlKGFkLmdldEF0dHJpYnV0ZSgnZGF0YS1ncHQtc2xvdC1wYXJhbXMnKSkpCgkJCQkJLnNvcnQocGFpckZpcnN0SXRlbUNvbXBhcmF0b3IpOwo=</text>
+        <text encoding="base64">CQlhZENvbnRleHQ6IHsKCQkJZ2V0OiBmdW5jdGlvbgoJCX0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -352,45 +368,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWQsCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGgyIHsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICB9CiAgICAucGFyYW1zIHsKICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgfQogICAgLnBhcmFtIHsKICAgICAgICB3aWR0aDogNTAlOwogICAgfQogICAgbGkgewogICAgICAgIHdvcmQtd3JhcDogYnJlYWstd29yZDsKICAgIH0KICAgIGxpLmhlYWRlciB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgIH0K</text>
+      <register name="4" type="4">
+        <text encoding="base64">CWZ1bmN0aW9uIGdldE1vZHVsZSgpIHsKCQlyZXR1cm4gbW9kdWxlc1tdCgl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8QWQK</text>
+        <text encoding="base64">CXZhciAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQkJJ2V4dC53aWtpYS5hZEVuZ2luZS5tbC5jdHAucXVlZW5EZXNrdG9wRGF0YVNvdXJjZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZGl2IHYtZm9yPSJhZCBpbiBhZHMiIDprZXk9ImFkLmtleSIgY2xhc3M9ImFkIj4KCQkJPGgyPnt7IGdldEFkVHlwZShhZC5pZCkgfX08L2gyPgogICAgICAgICAgICA8dWwgY2xhc3M9ImhlYWRlciI+CiAgICAgICAgICAgICAgICA8bGk+SWQ6IHt7IGFkLmlkIH19PC9saT4KICAgICAgICAgICAgICAgIDxsaT5Hb29nbGUgcXVlcnkgSWQ6IHt7IGFkLmdvb2dsZVF1ZXJ5SWQgfX08L2xpPgogICAgICAgICAgICAgICAgPGxpPkNyZWF0aXZlIElkOiB7eyBhZC5jcmVhdGl2ZUlkIH19PC9saT4KICAgICAgICAgICAgICAgIDxsaT5DcmVhdGl2ZVNpemU6IHt7IGFkLmNyZWF0aXZlU2l6ZSB9fTwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InBhcmFtcyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwYXJhbSI+CiAgICAgICAgICAgICAgICAgICAgPGg0PlBhZ2UgcGFyYW1zPC9oND4KICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0icGFnZVBhcmFtUGFpciBvZiBhZC5wYWdlUGFyYW1zIiA6a2V5PSJwYWdlUGFyYW1QYWlyWzBdIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHBhZ2VQYXJhbVBhaXJbMF0gfX06IHt7IHBhZ2VQYXJhbVBhaXJbMV0gfX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwYXJhbSI+CiAgICAgICAgICAgICAgICAgICAgPGg0PlNsb3QgcGFyYW1zPC9oND4KICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0ic2xvdFBhcmFtUGFpciBvZiBhZC5zbG90UGFyYW1zIiA6a2V5PSJzbG90UGFyYW1QYWlyWzBdIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHNsb3RQYXJhbVBhaXJbMF0gfX06IHt7IHNsb3RQYXJhbVBhaXJbMV0gfX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoJCTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWNvbnN0IHNsb3RQYXJhbXMgPSBPYmplY3QuZW50cmllcyhKU09OLnBhcnNlKGFkLmdldEF0dHJpYnV0ZSgnZGF0YS1ncHQtc2xvdC1wYXJhbXMnKSkpCgkJCQkJLnNvcnQocGFpckZpcnN0SXRlbUNvbXBhcmF0b3IpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlnZXRBZFR5cGU6IGZ1bmN0aW9uIChhZElkKSB7CgkJCWNvbnN0IGFkVHlwZXMgPSBbCgkJCQknVE9QX1JJR0hUX0JPWEFEJywKCQkJCSdJTlZJU0lCTEVfSElHSF9JTVBBQ1RfMicsCgkJCQknaW52aXNpYmxlX3NraW4nLAoJCQkJJ1RPUF9MRUFERVJCT0FSRCcsCgkJCQknQk9UVE9NX0xFQURFUkJPQVJEJwoJCQldOwoJCQlmb3IgKGNvbnN0IGFkVHlwZSBvZiBhZFR5cGVzKSB7CgkJCQlpZiAoYWRJZC5pbmNsdWRlcyhhZFR5cGUpKSB7CgkJCQkJcmV0dXJuIGFkVHlwZTsKCQkJCX0KCQkJfQoJCQlyZXR1cm4gYFVOS05PV04gKCR7YWRJZH0pYDsKCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>page</last-search>
+      <last-search encoding="base64">XDxtb2R1bGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>page</last-pattern>
+      <last-pattern encoding="base64">XDxtb2R1bGVzXD4=</last-pattern>
       <last-replace>slot</last-replace>
       <last-substitute>page</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmlnZ2VyT25DaGFuZ2VcPg==</entry>
         <entry>rabbit</entry>
         <entry>country</entry>
         <entry>traffic</entry>
@@ -410,6 +425,7 @@
         <entry encoding="base64">XDxwYWdlUGFyYW1zRGF0YVw+</entry>
         <entry>Page</entry>
         <entry>page</entry>
+        <entry encoding="base64">XDxtb2R1bGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
