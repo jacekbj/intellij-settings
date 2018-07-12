@@ -123,11 +123,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" timestamp="1531383239324">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="26" column="17" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" timestamp="1531393220229">
+        <mark key="'" line="17" column="32" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" timestamp="1531288815346">
         <mark key="'" line="17" column="20" />
@@ -136,7 +137,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531383384400">
+      <file name="/Dummy.txt" timestamp="1531393223919">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
@@ -158,11 +159,11 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531379308558">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="41" column="50" />
-        <mark key="." line="41" column="50" />
-        <mark key="^" line="41" column="50" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531393075067">
+        <mark key="[" line="41" column="42" />
+        <mark key="]" line="41" column="47" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="41" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/adeng-jupyter/config/config.ini" timestamp="1531126179604">
         <mark key="[" line="1" column="5" />
@@ -176,12 +177,12 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531390464369">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531392879382">
         <mark key="'" line="11" column="8" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="31" column="64" />
-        <mark key="." line="31" column="64" />
-        <mark key="^" line="31" column="64" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/app/tests/karma/js-unit.conf.js" timestamp="1531385203129">
         <mark key="'" line="133" column="37" />
@@ -245,11 +246,10 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" timestamp="1531390514388">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="77" column="7" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" timestamp="1531392355586">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -324,6 +324,7 @@
       <jump line="39" column="12" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" />
       <jump line="52" column="12" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" />
       <jump line="11" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" />
+      <jump line="17" column="32" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -336,8 +337,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -399,16 +400,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>§</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>Stopped</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJcHJlZGljdGlvbnMgPSBbXTsKCQkJY29udGV4dFsncmFiYml0cy5jdHBEZXNrdG9wJ10gPSB0cnVlOwoKCQkJZXhwZWN0KGF1dG9wbGF5LmlzQXV0b3BsYXlEaXNhYmxlZEJ5UmFiYml0cygpKS50b0VxdWFsKHRydWUpOwo=</text>
+      <register name="0" type="4">
+        <text>isAutoplayDisabledByRabbits</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CglmdW5jdGlvbiBpbk5leHRWaWRlb0F1dG9wbGF5RW5hYmxlZCgpIHsKCQkvLyByZXR1cm4gYWRDb250ZXh0LmlzRW5hYmxlZCgnd2dBcnRpY2xlVmlkZW9OZXh0VmlkZW9BdXRvcGxheUNvdW50cmllcycpOwoJCXJldHVybiB0cnVlOwoJfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,28 +420,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8vIGNvb2tpZSB8IHF1ZWVuIGVuYWJsZWQgfCBwcmVkaWN0aW9ucyB8IGN0cERlc2t0b3AgfCByZXN1bHQKCS8vIHZhciB0ZXN0UGFyYW1zID0gWwoJLy8gCVsnMScsIHRydWUsIFsxXSwgdHJ1ZSwgdHJ1ZV0sCgkvLyAJWycxJywgdHJ1ZSwgWzFdLCBmYWxzZSwgdHJ1ZV0sCgkvLyAJWycxJywgdHJ1ZSwgWzBdLCB0cnVlLCBmYWxzZV0sCgkvLyAJWycxJywgdHJ1ZSwgWzBdLCBmYWxzZSwgZmFsc2VdLAoJLy8KCS8vIAlbJzEnLCBmYWxzZSwgW10sIHRydWUsIHRydWVdLAoJLy8gCVsnMScsIGZhbHNlLCBbXSwgZmFsc2UsIGZhbHNlXSwKCS8vCgkvLyAJW2ZhbHNlLCB0cnVlLCBbMV0sIHRydWUsIGZhbHNlXSwKCS8vIAlbZmFsc2UsIHRydWUsIFsxXSwgZmFsc2UsIGZhbHNlXSwKCS8vIAlbZmFsc2UsIHRydWUsIFswXSwgdHJ1ZSwgZmFsc2VdLAoJLy8gCVtmYWxzZSwgdHJ1ZSwgWzBdLCBmYWxzZSwgZmFsc2VdLAoJLy8KCS8vIAlbZmFsc2UsIGZhbHNlLCBbXSwgdHJ1ZSwgZmFsc2VdLAoJLy8gCVtmYWxzZSwgZmFsc2UsIFtdLCBmYWxzZSwgZmFsc2VdCgkvLyBdOwoJLy8gZGVzY3JpYmUoJ2lzQXV0b3BsYXlFbmFibGVkJywgZnVuY3Rpb24gKCkgewoJLy8gCWZvciAodmFyIGkgPSAwOyBpIDwgdGVzdFBhcmFtcy5sZW5ndGg7IGkrKykgewoJLy8gCQkoZnVuY3Rpb24gKGkpIHsKCS8vIAkJCXByZWRpY3Rpb25zID0gdGVzdFBhcmFtc1tpXVsyXTsKCS8vIAkJCWlzCgkvLyAJCQl2YXIgY2FzZU5hbWUgPSAnc2hvdWxkIHJldHVybiAnICsgdGVzdFBhcmFtc1tpXVs0XS50b1N0cmluZygpICsKCS8vIAkJCQknIHdoZW4gYXV0b3BsYXkgY29va2llIGlzICcgKyB0ZXN0UGFyYW1zW2ldWzBdLnRvU3RyaW5nKCkgKwoJLy8gCQkJCScgYW5kIHF1ZWVuIGlzICcgKyAodGVzdFBhcmFtc1tpXVsxXSA/ICdlbmFibGVkJyA6ICdkaXNhYmxlZCcpICsKCS8vIAkJCQknIGFuZCBwcmVkaWN0aW9ucyBhcmUgJyArIHRlc3RQYXJhbXNbaV1bMl0udG9TdHJpbmcoKSArCgkvLyAJCQkJJyBhbmQgY3RwRGVza3RvcCBpcyAnICsgdGVzdFBhcmFtc1tpXVszXTsKCS8vIAkJCWl0KGNhc2VOYW1lLCBmdW5jdGlvbiAoKSB7CgkvLyAJCQkJdmFyIGF1dG9wbGF5ID0gbW9kdWxlc1snd2lraWEuYXJ0aWNsZVZpZGVvLmZlYXR1cmVkVmlkZW8uYXV0b3BsYXknXSgKCS8vIAkJCQkJbW9ja3MuYWRDb250ZXh0LCBtb2Nrcy5hYlRlc3QsIG1vY2tzLmZlYXR1cmVkVmlkZW9Db29raWVTZXJ2aWNlLCBtb2Nrcy5yYWJiaXQKCS8vIAkJCQkpOwoJLy8gCQkJCWV4cGVjdChhdXRvcGxheS5pc0F1dG9wbGF5RW5hYmxlZCgpKS50b0VxdWFsKHRlc3RQYXJhbXNbaV1bNF0pOwoJLy8gCQkJfSk7CgkvLyAJCX0pKGkpOwoJLy8gCX0KCS8vIH0pOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZ1bmN0aW9uIGlzQXV0b3BsYXlFbmFibGVkKCkgCgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ewoJCXZhciBpbkZlYXR1cmVkVmlkZW9DbGlja1RvUGxheUFCVGVzdCA9IGFiVGVzdC5pbkdyb3VwKCdGVl9DTElDS19UT19QTEFZJywgJ0NMSUNLX1RPX1BMQVknKTsKCQlyZXR1cm4gZmVhdHVyZWRWaWRlb0Nvb2tpZVNlcnZpY2UuZ2V0QXV0b3BsYXkoKSAhPT0gJzAnICYmCgkJCS8vIGFkQ29udGV4dC5pc0VuYWJsZWQoJ3dnQXJ0aWNsZVZpZGVvQXV0b3BsYXlDb3VudHJpZXMnKSAmJgoJCQkhaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXRzKCkgJiYKCQkJIWluRmVhdHVyZWRWaWRlb0NsaWNrVG9QbGF5QUJUZXN0OwoJfQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXRzICgpIHsKCQl2YXIgaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXQgPSBhZENvbnRleHQuZ2V0KCdyYWJiaXRzLmN0cERlc2t0b3AnKTsKCQl2YXIgcXVlZW5QcmVkaWN0aW9uID0gcmFiYml0LmdldFByZWRpY3Rpb25zKFsncXVlZW5kZXNrdG9wJ10pOwoJCWlmIChxdWVlblByZWRpY3Rpb24ubGVuZ3RoID4gMCkgewoJCQlpc0F1dG9wbGF5RGlzYWJsZWRCeVJhYmJpdCA9IHF1ZWVuUHJlZGljdGlvbi5pbmRleE9mKDEpID4gLTE7CgkJfQoJCXJldHVybiBpc0F1dG9wbGF5RGlzYWJsZWRCeVJhYmJpdDsKCX0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQljb25zb2xlLmxvZyhwYXJhbVsyXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJOwo=</text>
+        <text encoding="base64">CQkJCQkJY29uc29sZS5sb2cocGFyYW1bMl0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsZXQgYXV0b3BsYXk7CgkJCgkJYmVmb3JlCg==</text>
+        <text encoding="base64">CQlpdCgnc2hvdWxkIHJldHVybiB0cnVlIGlmICcsIGZ1bmN0aW9uICgpIHsKCQkJCgkJfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
