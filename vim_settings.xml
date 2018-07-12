@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" timestamp="1531382027947">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="52" />
+        <mark key="^" line="64" column="74" />
+        <mark key="." line="64" column="74" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
         <mark key="]" line="17" column="11" />
@@ -106,6 +112,12 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="8" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" timestamp="1531382209484">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" timestamp="1531288815346">
         <mark key="'" line="17" column="20" />
         <mark key="[" line="17" column="0" />
@@ -153,11 +165,11 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531380093907">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="15" column="79" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531382213207">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531288874105">
         <mark key="'" line="20" column="83" />
@@ -290,7 +302,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJIXdpbGxVc2VyQ2xpY2sgJiYK</text>
+        <text encoding="base64">CQkvKgoJCVNldCAiQ1RQUXVlZW5Gb3JjZSIgcGFyYW0gaW4gVVJMIHF1ZXJ5IHRvIGZvcmNlIHRoZSB1c2Ugb2YgUXVlZW4uCgkJICovCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -357,11 +369,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRVYXBJZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>CTPQueenForce</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJY29udGV4dFsncmFiYml0cy5xdWVlbkRlc2t0b3AnXSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJIXdpbGxVc2VyQ2xpY2sgJiYK</text>
+        <text encoding="base64">CQkvKgoJCVNldCAiQ1RQUXVlZW5Gb3JjZSIgcGFyYW0gaW4gVVJMIHF1ZXJ5IHRvIGZvcmNlIHRoZSB1c2Ugb2YgUXVlZW4uCgkJICovCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -372,28 +384,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkpOwo=</text>
+        <text encoding="base64">CQkJCWFkQ29udGV4dC5nZXQoJ3RhcmdldGluZy5za2luJykgPT09ICdvYXNpcycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2YXIgd2lsbFVzZXJDbGljayA9ICEhKAoJCQkJaXNRdWVlbkZvcmNlZCB8fAoJCQkJCgkJCSkKCQkpOwo=</text>
+        <text encoding="base64">CQkJCSEhYWRDb250ZXh0LmdldCgndGFyZ2V0aW5nLmhhc0ZlYXR1cmVkVmlkZW8nKSAmJgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCcKnCg==</text>
+        <text encoding="base64">CXdpbmRvdy5sb2NhbHRpb24uaHJlZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJYWRDb250ZXh0LmdldCgncmFiYml0cy5jdHBEZXNrdG9wJykgfHwgKAo=</text>
+        <text encoding="base64">CQkJCSB8fCB3aWxsVXNlckNsaWNrCgkJCSkgJiYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk7aGprZmc7bGFza2RoamY7bGFza2RoZjtrYWRqbHNoZjtrbGFzZGhmO2xrYXNkaGpmCg==</text>
+        <text encoding="base64">CQl2YXIgd2lsbFVzZXJDbGljayA9IHJhYmJpdCAmJiA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlyYWJiaXQuZ2V0UHJlCg==</text>
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKgoJCQoJCSAqLwo=</text>
+        <text encoding="base64">CQkJaXNRdWVlbkZvcmNlZCB8fAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
