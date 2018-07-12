@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" timestamp="1531383361022">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" timestamp="1531387644456">
         <mark key="'" line="40" column="52" />
-        <mark key="[" line="79" column="48" />
-        <mark key="]" line="79" column="48" />
-        <mark key="^" line="79" column="48" />
-        <mark key="." line="79" column="48" />
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
@@ -18,6 +18,13 @@
       </file>
       <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" timestamp="1531211707280">
         <mark key="'" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" timestamp="1531387690412">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
         <mark key="'" line="9" column="6" />
@@ -87,7 +94,7 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531383242484">
+      <file name="/JavaScript Console" timestamp="1531388248838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531119024944">
@@ -169,11 +176,15 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531382213207">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="19" column="40" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531390464369">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="31" column="64" />
+        <mark key="." line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/tests/karma/js-unit.conf.js" timestamp="1531385203129">
+        <mark key="'" line="133" column="37" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531288874105">
         <mark key="'" line="20" column="83" />
@@ -233,6 +244,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="17" column="7" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" timestamp="1531390514388">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="77" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -300,6 +317,13 @@
       <jump line="94" column="9" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
       <jump line="147" column="2" filename="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" />
       <jump line="40" column="52" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" />
+      <jump line="133" column="37" filename="$USER_HOME$/Projects/app/tests/karma/js-unit.conf.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" />
+      <jump line="35" column="45" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" />
+      <jump line="39" column="12" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" />
+      <jump line="52" column="12" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" />
+      <jump line="11" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -312,8 +336,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>§</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -378,13 +402,13 @@
         <text>§</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRVYXBJZFw+</text>
+        <text>Stopped</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJY29udGV4dFsndGFyZ2V0aW5nLmhhc0ZlYXR1cmVkVmlkZW8nXSA9IGZhbHNlOwoJCQljb250ZXh0WydyYWJiaXRzLmlzUXVlZW5EZXNrdG9wRm9yY2VkJ10gPSB0cnVlOwoKCQkJZXhwZWN0KG1vZGVsLmVuYWJsZWQoKSkudG9FcXVhbChmYWxzZSk7Cg==</text>
+        <text encoding="base64">CQkJcHJlZGljdGlvbnMgPSBbXTsKCQkJY29udGV4dFsncmFiYml0cy5jdHBEZXNrdG9wJ10gPSB0cnVlOwoKCQkJZXhwZWN0KGF1dG9wbGF5LmlzQXV0b3BsYXlEaXNhYmxlZEJ5UmFiYml0cygpKS50b0VxdWFsKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -395,47 +419,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CS8vIGNvb2tpZSB8IHF1ZWVuIGVuYWJsZWQgfCBwcmVkaWN0aW9ucyB8IGN0cERlc2t0b3AgfCByZXN1bHQKCS8vIHZhciB0ZXN0UGFyYW1zID0gWwoJLy8gCVsnMScsIHRydWUsIFsxXSwgdHJ1ZSwgdHJ1ZV0sCgkvLyAJWycxJywgdHJ1ZSwgWzFdLCBmYWxzZSwgdHJ1ZV0sCgkvLyAJWycxJywgdHJ1ZSwgWzBdLCB0cnVlLCBmYWxzZV0sCgkvLyAJWycxJywgdHJ1ZSwgWzBdLCBmYWxzZSwgZmFsc2VdLAoJLy8KCS8vIAlbJzEnLCBmYWxzZSwgW10sIHRydWUsIHRydWVdLAoJLy8gCVsnMScsIGZhbHNlLCBbXSwgZmFsc2UsIGZhbHNlXSwKCS8vCgkvLyAJW2ZhbHNlLCB0cnVlLCBbMV0sIHRydWUsIGZhbHNlXSwKCS8vIAlbZmFsc2UsIHRydWUsIFsxXSwgZmFsc2UsIGZhbHNlXSwKCS8vIAlbZmFsc2UsIHRydWUsIFswXSwgdHJ1ZSwgZmFsc2VdLAoJLy8gCVtmYWxzZSwgdHJ1ZSwgWzBdLCBmYWxzZSwgZmFsc2VdLAoJLy8KCS8vIAlbZmFsc2UsIGZhbHNlLCBbXSwgdHJ1ZSwgZmFsc2VdLAoJLy8gCVtmYWxzZSwgZmFsc2UsIFtdLCBmYWxzZSwgZmFsc2VdCgkvLyBdOwoJLy8gZGVzY3JpYmUoJ2lzQXV0b3BsYXlFbmFibGVkJywgZnVuY3Rpb24gKCkgewoJLy8gCWZvciAodmFyIGkgPSAwOyBpIDwgdGVzdFBhcmFtcy5sZW5ndGg7IGkrKykgewoJLy8gCQkoZnVuY3Rpb24gKGkpIHsKCS8vIAkJCXByZWRpY3Rpb25zID0gdGVzdFBhcmFtc1tpXVsyXTsKCS8vIAkJCWlzCgkvLyAJCQl2YXIgY2FzZU5hbWUgPSAnc2hvdWxkIHJldHVybiAnICsgdGVzdFBhcmFtc1tpXVs0XS50b1N0cmluZygpICsKCS8vIAkJCQknIHdoZW4gYXV0b3BsYXkgY29va2llIGlzICcgKyB0ZXN0UGFyYW1zW2ldWzBdLnRvU3RyaW5nKCkgKwoJLy8gCQkJCScgYW5kIHF1ZWVuIGlzICcgKyAodGVzdFBhcmFtc1tpXVsxXSA/ICdlbmFibGVkJyA6ICdkaXNhYmxlZCcpICsKCS8vIAkJCQknIGFuZCBwcmVkaWN0aW9ucyBhcmUgJyArIHRlc3RQYXJhbXNbaV1bMl0udG9TdHJpbmcoKSArCgkvLyAJCQkJJyBhbmQgY3RwRGVza3RvcCBpcyAnICsgdGVzdFBhcmFtc1tpXVszXTsKCS8vIAkJCWl0KGNhc2VOYW1lLCBmdW5jdGlvbiAoKSB7CgkvLyAJCQkJdmFyIGF1dG9wbGF5ID0gbW9kdWxlc1snd2lraWEuYXJ0aWNsZVZpZGVvLmZlYXR1cmVkVmlkZW8uYXV0b3BsYXknXSgKCS8vIAkJCQkJbW9ja3MuYWRDb250ZXh0LCBtb2Nrcy5hYlRlc3QsIG1vY2tzLmZlYXR1cmVkVmlkZW9Db29raWVTZXJ2aWNlLCBtb2Nrcy5yYWJiaXQKCS8vIAkJCQkpOwoJLy8gCQkJCWV4cGVjdChhdXRvcGxheS5pc0F1dG9wbGF5RW5hYmxlZCgpKS50b0VxdWFsKHRlc3RQYXJhbXNbaV1bNF0pOwoJLy8gCQkJfSk7CgkvLyAJCX0pKGkpOwoJLy8gCX0KCS8vIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgl2YXIgaXNRdWVlbkZvcmNlZCA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJd2luZG93LmxvY2F0aW9uLmhyZWYgPSB3aW5kb3cubG9jYXRpb24uaHJlZiArICc/Q1RQUXVlZW5Gb3JjZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKgoJCVNldCAiQ1RQUXVlZW5Gb3JjZSIgcGFyYW0gaW4gVVJMIHF1ZXJ5IHRvIGZvcmNlIHRoZSB1c2Ugb2YgUXVlZW4uCgkJICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWFkQ29udGV4dC5nZXQoJ3RhcmdldGluZy5za2luJykgPT09ICdvYXNpcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSEhYWRDb250ZXh0LmdldCgndGFyZ2V0aW5nLmhhc0ZlYXR1cmVkVmlkZW8nKSAmJgo=</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXdpbmRvdy5sb2NhbHRpb24uaHJlZgo=</text>
+        <text encoding="base64">CQlsZXQgYXV0b3BsYXk7CgkJCgkJYmVmb3JlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRVYXBJZFw+</last-search>
+      <last-search>Stopped</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRVYXBJZFw+</last-pattern>
-      <last-replace>slot</last-replace>
-      <last-substitute>page</last-substitute>
+      <last-pattern>Stopped</last-pattern>
+      <last-replace>Disabled</last-replace>
+      <last-substitute>Stopped</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>traffic</entry>
-        <entry>verticvalName</entry>
-        <entry>verticalName</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
         <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
@@ -453,6 +474,9 @@
         <entry encoding="base64">XDxnZXRVYXBJZFw+</entry>
         <entry encoding="base64">XDx1YXBJZFw+</entry>
         <entry encoding="base64">XDxzZXRVYXBJZFw+</entry>
+        <entry>Article</entry>
+        <entry>[true/[false/g</entry>
+        <entry>Stopped</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -465,6 +489,8 @@
         <entry>s/page/slot/g</entry>
         <entry encoding="base64">JzwsJz5zL1BhZ2UvU2xvdC9n</entry>
         <entry encoding="base64">JzwsJz5zL3BhZ2Uvc2xvdC9n</entry>
+        <entry encoding="base64">JzwsJz5zL1t0cnVlL1tmYWxzZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL1N0b3BwZWQvRGlzYWJsZWQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -488,6 +514,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
