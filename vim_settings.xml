@@ -16,25 +16,10 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" timestamp="1531211707280">
-        <mark key="'" line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" timestamp="1531387690412">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/ctpDesktopDataSource.js" timestamp="1530862782279">
-        <mark key="'" line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" timestamp="1531121700548">
-        <mark key="'" line="38" column="4" />
-        <mark key="[" line="55" column="23" />
-        <mark key="]" line="55" column="23" />
-        <mark key="^" line="55" column="23" />
-        <mark key="." line="55" column="23" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/public/index.html" timestamp="1531398786921">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" timestamp="1531219427911">
         <mark key="'" line="19" column="16" />
@@ -63,17 +48,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
-        <mark key="'" line="18" column="31" />
-        <mark key="[" line="6" column="54" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
-      </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531230998294">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/dist/index.html" timestamp="1531398048099">
+        <mark key="[" line="0" column="693" />
+        <mark key="]" line="0" column="697" />
+        <mark key="^" line="0" column="697" />
+        <mark key="." line="0" column="697" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
         <mark key="'" line="0" column="0" />
@@ -81,34 +60,6 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.css" timestamp="1531215327687">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/main.js" timestamp="1531228035192">
-        <mark key="[" line="3" column="32" />
-        <mark key="]" line="3" column="32" />
-        <mark key="^" line="3" column="32" />
-        <mark key="." line="3" column="32" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1531388248838">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-engine/src/video/vast-url-builder.js" timestamp="1531119024944">
-        <mark key="'" line="4" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/provider/gpt/helper.js" timestamp="1530801544442">
-        <mark key="'" line="18" column="42" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" timestamp="1531297252005">
-        <mark key="'" line="147" column="2" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="151" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
         <mark key="'" line="11" column="16" />
@@ -130,28 +81,11 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" timestamp="1531288815346">
-        <mark key="'" line="17" column="20" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="20" column="25" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1531400729565">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
-        <mark key="'" line="71" column="4" />
-      </file>
-      <file name="/ctpMobileDataSource.js" timestamp="1530863070256">
-        <mark key="'" line="2315" column="44" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" timestamp="1531122043748">
-        <mark key="'" line="127" column="7" />
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/adeng-chrome-extension/plugin/manifest.json" timestamp="1531395457860">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="76" />
+        <mark key="." line="3" column="76" />
+        <mark key="^" line="3" column="76" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/markup.js" timestamp="1531215495481">
         <mark key="[" line="19" column="35" />
@@ -165,49 +99,18 @@
         <mark key="." line="40" column="7" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/adeng-jupyter/config/config.ini" timestamp="1531126179604">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
-        <mark key="^" line="1" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/adeng-jupyter/README.md" timestamp="1530881004090">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531400552578">
-        <mark key="'" line="12" column="8" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="95" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531392879382">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/app/tests/karma/js-unit.conf.js" timestamp="1531385203129">
-        <mark key="'" line="133" column="37" />
-      </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531288874105">
-        <mark key="'" line="20" column="83" />
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="31" />
-        <mark key="^" line="52" column="31" />
-        <mark key="." line="52" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531295353326">
-        <mark key="[" line="55" column="39" />
-        <mark key="]" line="55" column="38" />
-        <mark key="." line="55" column="38" />
-        <mark key="^" line="55" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/ad-products/src/templates/uap/themes/hivi/hivi.js" timestamp="1531294727757">
-        <mark key="'" line="409" column="0" />
-      </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.html" timestamp="1531218412968">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/manifest.json" timestamp="1531399133354">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/adeng-chrome-extension/extension/markup.js" timestamp="1531294533770">
         <mark key="[" line="29" column="58" />
@@ -234,11 +137,151 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" timestamp="1530713531464">
-        <mark key="'" line="20" column="16" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/adeng-chrome-extension/README.md" timestamp="1531395548119">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" timestamp="1531145623370">
-        <mark key="'" line="55" column="16" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/content.js" timestamp="1531398880047">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" timestamp="1531387690412">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/spec/providers/gpt-provider.spec.js" timestamp="1531121700548">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/package.json" timestamp="1531398357487">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="57" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
+        <mark key="'" line="18" column="31" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531230998294">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.css" timestamp="1531215327687">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/main.js" timestamp="1531228035192">
+        <mark key="[" line="3" column="32" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1531388248838">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" timestamp="1531297252005">
+        <mark key="'" line="147" column="2" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/README.md" timestamp="1531395837315">
+        <mark key="[" line="14" column="67" />
+        <mark key="]" line="14" column="66" />
+        <mark key="^" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/markup.js" timestamp="1531288815346">
+        <mark key="'" line="17" column="20" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="20" column="25" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1531399857460">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/App.vue" timestamp="1531398722717">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" timestamp="1531122043748">
+        <mark key="'" line="127" column="7" />
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="9" />
+        <mark key="^" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/adeng-jupyter/config/config.ini" timestamp="1531126179604">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/adeng-jupyter/README.md" timestamp="1530881004090">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/.gitignore" timestamp="1531395317336">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/vue.config.js" timestamp="1531398623546">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/adeng-chrome-extension/adeng/package.json" timestamp="1531395276748">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="51" />
+        <mark key="." line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531288874105">
+        <mark key="'" line="20" column="83" />
+        <mark key="[" line="52" column="31" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531295353326">
+        <mark key="[" line="55" column="39" />
+        <mark key="]" line="55" column="38" />
+        <mark key="." line="55" column="38" />
+        <mark key="^" line="55" column="38" />
+      </file>
+      <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.html" timestamp="1531218412968">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/background.js" timestamp="1531399815731">
+        <mark key="[" line="5" column="98" />
+        <mark key="]" line="5" column="99" />
+        <mark key="." line="5" column="99" />
+        <mark key="^" line="5" column="99" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.js" timestamp="1531229403888">
         <mark key="'" line="19" column="15" />
@@ -247,11 +290,10 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" timestamp="1531400710103">
-        <mark key="[" line="105" column="27" />
-        <mark key="]" line="105" column="34" />
-        <mark key="." line="105" column="34" />
-        <mark key="^" line="105" column="34" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" timestamp="1531392355586">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -341,7 +383,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>g()</text>
+        <text>com</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -403,16 +445,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g()</text>
+        <text>com</text>
       </register>
       <register name="/" type="4">
         <text>Forced</text>
       </register>
-      <register name="0" type="4">
-        <text>isAutoplayDisabledByRabbits</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCW5ldyBjaHJvbWUuZGVjbGFyYXRpdmVDb250ZW50LlBhZ2VTdGF0ZU1hdGNoZXIoeyBwYWdlVXJsOiB7aG9zdFN1ZmZpeDogJ3dpa2lhLmNvbSd9IH0pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXZhciBhdXRvcGxheSA9IGdldEF1dG9wbGF5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -423,28 +465,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZhciBhdXRvcGxheSA9IG1vZHVsZXNbJ3dpa2lhLmFydGljbGVWaWRlby5mZWF0dXJlZFZpZGVvLmF1dG9wbGF5J10oCgkJbW9ja3MuYWRDb250ZXh0LCBtb2Nrcy5hYlRlc3QsIG1vY2tzLmZlYXR1cmVkVmlkZW9Db29raWVTZXJ2aWNlLCBtb2Nrcy5yYWJiaXQKCSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdmFyIGluRmVhdHVyZWRWaWRlb0NsaWNrVG9QbGF5QUJUZXN0ID0gYWJUZXN0LmluR3JvdXAoJ0ZWX0NMSUNLX1RPX1BMQVknLCAnQ0xJQ0tfVE9fUExBWScpOwo=</text>
+        <text encoding="base64">Ly8gZm91bmQgaW4gdGhlIExJQ0VOU0UgZmlsZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJdmFyIGlzQXV0b3BsYXlEaXNhYmxlZEJ5UmFiYml0ID0gYWRDb250ZXh0LmdldCgncmFiYml0cy5jdHBEZXNrdG9wJyk7Cg==</text>
+        <text encoding="base64">Ly8gVXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYSBCU0Qtc3R5bGUgbGljZW5zZSB0aGF0IGNhbiBiZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvKgoJCUdldCBwcmVkaWN0aW9ucyBmb3IgYWxsIG1vZGVscyB3aGljaCBhcmUgZW5hYmxlZCBhbmQgdGhlaXIgbmFtZQoJCW1hdGNoZXMgb25lIG9mIGFsbG93ZWRNb2RlbHNOYW1lcyB2YWx1ZXMuCgkJICovCg==</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IDIwMTggVGhlIENocm9taXVtIEF1dGhvcnMuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglmdW5jdGlvbiBpbk5leHRWaWRlb0F1dG9wbGF5RW5hYmxlZCgpIHsKCQkvLyByZXR1cm4gYWRDb250ZXh0LmlzRW5hYmxlZCgnd2dBcnRpY2xlVmlkZW9OZXh0VmlkZW9BdXRvcGxheUNvdW50cmllcycpOwoJCXJldHVybiB0cnVlOwoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly8qLndpa2lhLWRldi5wbC8qIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAid2ViX2FjY2Vzc2libGVfcmVzb3VyY2VzIjogWwogICAgImRpc3QvKiIKICBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0iaWNvbiIgaHJlZj0iPCU9IEJBU0VfVVJMICU+ZmF2aWNvbi5pY28iPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -461,6 +503,10 @@
     </search>
     <history>
       <history-search>
+        <entry>traffic</entry>
+        <entry>verticvalName</entry>
+        <entry>verticalName</entry>
+        <entry>log</entry>
         <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
         <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
         <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
@@ -477,10 +523,6 @@
         <entry encoding="base64">XDxnZXRVYXBJZFw+</entry>
         <entry encoding="base64">XDx1YXBJZFw+</entry>
         <entry encoding="base64">XDxzZXRVYXBJZFw+</entry>
-        <entry>Article</entry>
-        <entry>[true/[false/g</entry>
-        <entry>Stopped</entry>
-        <entry>Forced</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
@@ -493,8 +535,6 @@
         <entry>s/page/slot/g</entry>
         <entry encoding="base64">JzwsJz5zL1BhZ2UvU2xvdC9n</entry>
         <entry encoding="base64">JzwsJz5zL3BhZ2Uvc2xvdC9n</entry>
-        <entry encoding="base64">JzwsJz5zL1t0cnVlL1tmYWxzZS9n</entry>
-        <entry encoding="base64">JzwsJz5zL1N0b3BwZWQvRGlzYWJsZWQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
