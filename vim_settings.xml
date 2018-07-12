@@ -113,7 +113,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531379320175">
+      <file name="/Dummy.txt" timestamp="1531380097709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" timestamp="1530778711405">
@@ -153,10 +153,11 @@
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531379159748">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531380093907">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="15" column="79" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/src/components/Ad.vue" timestamp="1531288874105">
         <mark key="'" line="20" column="83" />
@@ -288,8 +289,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>all enabled models</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJIXdpbGxVc2VyQ2xpY2sgJiYK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -351,7 +352,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all enabled models</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRVYXBJZFw+</text>
@@ -360,7 +361,7 @@
         <text>CTPQueenForce</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk7aGprZmc7bGFza2RoamY7bGFza2RoZjtrYWRqbHNoZjtrbGFzZGhmO2xrYXNkaGpmCg==</text>
+        <text encoding="base64">CQkJIXdpbGxVc2VyQ2xpY2sgJiYK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,28 +372,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlyYWJiaXQuZ2V0UHJlCg==</text>
+        <text encoding="base64">CQl2YXIgd2lsbFVzZXJDbGljayA9ICEhKAoJCQkJaXNRdWVlbkZvcmNlZCB8fAoJCQkJCgkJCSkKCQkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkvKgoJCQoJCSAqLwo=</text>
+        <text encoding="base64">CQkJCcKnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBpc1F1ZWVuRm9yY2VkID0gd2luZG93LmxvY2F0aW9uLmhyZWYuaW5kZXhPZignQ1RQUXVlZW5Gb3JjZScpID4gLTE7Cg==</text>
+        <text encoding="base64">CQkJYWRDb250ZXh0LmdldCgncmFiYml0cy5jdHBEZXNrdG9wJykgfHwgKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8qCgkKCSAqLwo=</text>
+        <text encoding="base64">CQk7aGprZmc7bGFza2RoamY7bGFza2RoZjtrYWRqbHNoZjtrbGFzZGhmO2xrYXNkaGpmCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKGdldFVhcElkKCkpOwo=</text>
+        <text encoding="base64">CQlyYWJiaXQuZ2V0UHJlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkvKgoJCQoJCSAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
