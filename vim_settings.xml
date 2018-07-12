@@ -101,11 +101,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/manifest.json" timestamp="1531396162563">
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="13" column="26" />
-        <mark key="^" line="13" column="26" />
-        <mark key="." line="13" column="26" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/manifest.json" timestamp="1531396920030">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="20" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/app/tests/karma/js-unit.conf.js" timestamp="1531385203129">
         <mark key="'" line="133" column="37" />
@@ -381,8 +381,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0tbm8tY2xlYW4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgImNzcyI6IFsgXSwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -444,7 +444,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tbm8tY2xlYW4=</text>
+        <text>imarkup</text>
       </register>
       <register name="/" type="4">
         <text>Forced</text>
@@ -453,7 +453,7 @@
         <text>isAutoplayDisabledByRabbits</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SQo=</text>
+        <text encoding="base64">ICAgICAgImNzcyI6IFsgXSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -464,28 +464,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TG9hZCAidW5sb2FkZWQiCg==</text>
+        <text encoding="base64">SQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvKgoJCUdldCBwcmVkaWN0aW9ucyBmb3IgYWxsIG1vZGVscyB3aGljaCBhcmUgZW5hYmxlZCBhbmQgdGhlaXIgbmFtZQoJCW1hdGNoZXMgb25lIG9mIGFsbG93ZWRNb2RlbHNOYW1lcyB2YWx1ZXMuCgkJICovCg==</text>
+        <text encoding="base64">TG9hZCAidW5sb2FkZWQiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CglmdW5jdGlvbiBpbk5leHRWaWRlb0F1dG9wbGF5RW5hYmxlZCgpIHsKCQkvLyByZXR1cm4gYWRDb250ZXh0LmlzRW5hYmxlZCgnd2dBcnRpY2xlVmlkZW9OZXh0VmlkZW9BdXRvcGxheUNvdW50cmllcycpOwoJCXJldHVybiB0cnVlOwoJfQo=</text>
+        <text encoding="base64">CQkvKgoJCUdldCBwcmVkaWN0aW9ucyBmb3IgYWxsIG1vZGVscyB3aGljaCBhcmUgZW5hYmxlZCBhbmQgdGhlaXIgbmFtZQoJCW1hdGNoZXMgb25lIG9mIGFsbG93ZWRNb2RlbHNOYW1lcyB2YWx1ZXMuCgkJICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CglmdW5jdGlvbiBpbk5leHRWaWRlb0F1dG9wbGF5RW5hYmxlZCgpIHsKCQkvLyByZXR1cm4gYWRDb250ZXh0LmlzRW5hYmxlZCgnd2dBcnRpY2xlVmlkZW9OZXh0VmlkZW9BdXRvcGxheUNvdW50cmllcycpOwoJCXJldHVybiB0cnVlOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CWZ1bmN0aW9uIGlzQXV0b3BsYXlFbmFibGVkKCkgCgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewoJCXZhciBpbkZlYXR1cmVkVmlkZW9DbGlja1RvUGxheUFCVGVzdCA9IGFiVGVzdC5pbkdyb3VwKCdGVl9DTElDS19UT19QTEFZJywgJ0NMSUNLX1RPX1BMQVknKTsKCQlyZXR1cm4gZmVhdHVyZWRWaWRlb0Nvb2tpZVNlcnZpY2UuZ2V0QXV0b3BsYXkoKSAhPT0gJzAnICYmCgkJCS8vIGFkQ29udGV4dC5pc0VuYWJsZWQoJ3dnQXJ0aWNsZVZpZGVvQXV0b3BsYXlDb3VudHJpZXMnKSAmJgoJCQkhaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXRzKCkgJiYKCQkJIWluRmVhdHVyZWRWaWRlb0NsaWNrVG9QbGF5QUJUZXN0OwoJfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXRzICgpIHsKCQl2YXIgaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXQgPSBhZENvbnRleHQuZ2V0KCdyYWJiaXRzLmN0cERlc2t0b3AnKTsKCQl2YXIgcXVlZW5QcmVkaWN0aW9uID0gcmFiYml0LmdldFByZWRpY3Rpb25zKFsncXVlZW5kZXNrdG9wJ10pOwoJCWlmIChxdWVlblByZWRpY3Rpb24ubGVuZ3RoID4gMCkgewoJCQlpc0F1dG9wbGF5RGlzYWJsZWRCeVJhYmJpdCA9IHF1ZWVuUHJlZGljdGlvbi5pbmRleE9mKDEpID4gLTE7CgkJfQoJCXJldHVybiBpc0F1dG9wbGF5RGlzYWJsZWRCeVJhYmJpdDsKCX0=</text>
+        <text encoding="base64">ewoJCXZhciBpbkZlYXR1cmVkVmlkZW9DbGlja1RvUGxheUFCVGVzdCA9IGFiVGVzdC5pbkdyb3VwKCdGVl9DTElDS19UT19QTEFZJywgJ0NMSUNLX1RPX1BMQVknKTsKCQlyZXR1cm4gZmVhdHVyZWRWaWRlb0Nvb2tpZVNlcnZpY2UuZ2V0QXV0b3BsYXkoKSAhPT0gJzAnICYmCgkJCS8vIGFkQ29udGV4dC5pc0VuYWJsZWQoJ3dnQXJ0aWNsZVZpZGVvQXV0b3BsYXlDb3VudHJpZXMnKSAmJgoJCQkhaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXRzKCkgJiYKCQkJIWluRmVhdHVyZWRWaWRlb0NsaWNrVG9QbGF5QUJUZXN0OwoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
