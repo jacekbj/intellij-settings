@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" timestamp="1531387644456">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/queenDesktop.spec.js" timestamp="1531466571860">
         <mark key="'" line="40" column="52" />
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="38" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
         <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
@@ -16,11 +16,12 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" timestamp="1531406493239">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="69" column="69" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" timestamp="1531467354667">
+        <mark key="'" line="3" column="24" />
+        <mark key="[" line="75" column="56" />
+        <mark key="]" line="75" column="56" />
+        <mark key="." line="75" column="56" />
+        <mark key="^" line="75" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/public/index.html" timestamp="1531398786921">
         <mark key="[" line="6" column="0" />
@@ -80,12 +81,11 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="8" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" timestamp="1531464741394">
-        <mark key="'" line="17" column="32" />
-        <mark key="[" line="22" column="56" />
-        <mark key="]" line="22" column="56" />
-        <mark key="^" line="22" column="56" />
-        <mark key="." line="22" column="56" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" timestamp="1531467624730">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="15" column="67" />
+        <mark key="^" line="15" column="67" />
+        <mark key="." line="15" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/adeng-chrome-extension/plugin/manifest.json" timestamp="1531395457860">
         <mark key="[" line="3" column="38" />
@@ -99,11 +99,11 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531465914526">
-        <mark key="[" line="60" column="30" />
-        <mark key="]" line="60" column="30" />
-        <mark key="." line="60" column="30" />
-        <mark key="^" line="55" column="34" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531467565029">
+        <mark key="[" line="51" column="70" />
+        <mark key="]" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+        <mark key="^" line="62" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531406616813">
         <mark key="[" line="13" column="0" />
@@ -123,10 +123,10 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531465848518">
-        <mark key="'" line="21" column="8" />
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="21" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531466207116">
+        <mark key="'" line="162" column="42" />
+        <mark key="[" line="39" column="17" />
+        <mark key="]" line="39" column="51" />
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="4" />
       </file>
@@ -141,9 +141,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="10" column="29" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chrome-extensions/adeng-chrome-extension/README.md" timestamp="1531395548119">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/content.js" timestamp="1531398880047">
         <mark key="[" line="0" column="0" />
@@ -202,9 +199,6 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="/JavaScript Console" timestamp="1531388248838">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/ad-products/src/templates/uap/universal-ad-package.js" timestamp="1531297252005">
         <mark key="'" line="147" column="2" />
         <mark key="[" line="151" column="0" />
@@ -225,7 +219,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531406732417">
+      <file name="/Dummy.txt" timestamp="1531467646974">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/utils/url.js" timestamp="1531465683146">
@@ -400,6 +394,9 @@
       <jump line="14" column="83" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
       <jump line="295" column="15" filename="$USER_HOME$/Projects/app/resources/wikia/modules/querystring.js" />
       <jump line="21" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="162" column="42" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="52" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" />
+      <jump line="3" column="24" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -412,8 +409,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJKHF1ZWVuIGNhbiBiZSBmb3JjZWQgdG8gZW5hYmxlZCBzdGF0ZSBieSBxdWVyeSBwcmVzZW5jZQoJCQlvZiBxdWVyeSBwYXJhbSAiQ1RQUXVlZW5Gb3JjZSIpLgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -475,16 +472,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.get</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxc1w+</text>
+        <text>set</text>
       </register>
       <register name="0" type="4">
-        <text>wikia.querystring</text>
+        <text>parseInt(qs.getVal(key), 10)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJKHF1ZWVuIGNhbiBiZSBmb3JjZWQgdG8gZW5hYmxlZCBzdGF0ZSBieSBxdWVyeSBwcmVzZW5jZQoJCQlvZiBxdWVyeSBwYXJhbSAiQ1RQUXVlZW5Gb3JjZSIpLgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -495,37 +492,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsKCQkJY29uc29sZS5sb2cocXMuZ2V0VmFsKGtleSwgbnVsbCkpOwoJCQljb25zb2xlLmxvZyhwYXJzZUludChxcy5nZXRWYWwoa2V5KSwgMTApKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CglmdW5jdGlvbiBpc1VybFBhcmFtU2V0KHBhcmFtKSB7CgkJcmV0dXJuICEhcGFyc2VJbnQocXMuZ2V0VmFsKHBhcmFtLCAnMCcpLCAxMCk7Cgl9Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZhciBlbmFibGVkTW9kZWxzID0gZ2V0RW5hYmxlZE1vZGVscygpOwoJdmFyIGNvbnRleHQgPSB7CgkJcmFiYml0czogewoKCQl9Cgl9OwoJZm9yICh2YXIgaSA9IDA7IGkgPCBlbmFibGVkTW9kZWxzLmxlbmd0aDsgaSsrKSB7CgkJY29udGV4dFtdCgkJYWRDb250ZXh0LnNldENvbnRleHQoewoKCQl9KQoKCQljb250ZXh0LnJhYmJpdHMuaXNRdWVlbkRlc2t0b3BGb3JjZWQgPSBpc1VybFBhcmFtU2V0KCdDVFBRdWVlbkZvcmNlJyk7Cgl9Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2cocXMuZ2V0VmFsKGtleSwgbnVsbCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb250ZXh0LnMK</text>
+        <text encoding="base64">CQkJdmFyIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2YXIga2V5ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQlpZiAobW9kZWxOYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWNvbnRleHQucmFiYml0cy5pc1F1ZWVuRGVza3RvcEZvcmNlZCA9IGlzVXJsUGFyYW1TZXQoJ0NUUFF1ZWVuRm9yY2UnKTsK</text>
+        <text encoding="base64">CQkJCQlyZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxc1w+</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxc1w+</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-replace>Disabled</last-replace>
       <last-substitute>Stopped</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +530,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
         <entry>'</entry>
         <entry>add</entry>
         <entry encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</entry>
@@ -553,6 +549,7 @@
         <entry encoding="base64">XDx3XD4=</entry>
         <entry encoding="base64">XDxRdWVyeXN0cmluZ1w+</entry>
         <entry encoding="base64">XDxxc1w+</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
