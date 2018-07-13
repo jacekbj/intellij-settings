@@ -99,11 +99,11 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531465084904">
-        <mark key="[" line="87" column="19" />
-        <mark key="]" line="93" column="15" />
-        <mark key="." line="93" column="15" />
-        <mark key="^" line="93" column="15" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531465914526">
+        <mark key="[" line="60" column="30" />
+        <mark key="]" line="60" column="30" />
+        <mark key="." line="60" column="30" />
+        <mark key="^" line="55" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531406616813">
         <mark key="[" line="13" column="0" />
@@ -123,11 +123,12 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531464813239">
-        <mark key="'" line="203" column="20" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531465848518">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="21" column="4" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/adeng/package.json" timestamp="1531219990768">
         <mark key="[" line="6" column="65" />
@@ -150,6 +151,10 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/utils/device.js" timestamp="1531465436180">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" timestamp="1531387690412">
         <mark key="'" line="39" column="12" />
         <mark key="[" line="3" column="0" />
@@ -169,6 +174,9 @@
         <mark key="]" line="6" column="57" />
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/resources/wikia/modules/querystring.js" timestamp="1531465833864">
+        <mark key="'" line="295" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/dataSources.spec.js" timestamp="1530862716309">
         <mark key="'" line="18" column="31" />
@@ -219,6 +227,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1531406732417">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/utils/url.js" timestamp="1531465683146">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="11" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/App.vue" timestamp="1531398722717">
         <mark key="[" line="12" column="25" />
@@ -379,6 +393,13 @@
       <jump line="37" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" />
       <jump line="110" column="35" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
       <jump line="204" column="20" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="147" column="33" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="70" column="13" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="135" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="174" column="47" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="14" column="83" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="295" column="15" filename="$USER_HOME$/Projects/app/resources/wikia/modules/querystring.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -391,8 +412,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQljb250ZXh0LnMK</text>
+      <register name="&quot;" type="4">
+        <text>.get</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -454,16 +475,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>.get</text>
       </register>
       <register name="/" type="4">
-        <text>rabbit</text>
+        <text encoding="base64">XDxxc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>ext.wikia.adEngine.adContext</text>
+        <text>wikia.querystring</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb250ZXh0LnMK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -474,37 +495,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXIga2V5ID0gCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CglmdW5jdGlvbiBpc1VybFBhcmFtU2V0KHBhcmFtKSB7CgkJcmV0dXJuICEhcGFyc2VJbnQocXMuZ2V0VmFsKHBhcmFtLCAnMCcpLCAxMCk7Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWNvbnRleHQucmFiYml0cy5pc1F1ZWVuRGVza3RvcEZvcmNlZCA9IGlzVXJsUGFyYW1TZXQoJ0NUUFF1ZWVuRm9yY2UnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgljb250ZXh0LnJhYmJpdHMuaXNRdWVlbkRlc2t0b3BGb3JjZWQgPSBpc1VybFBhcmFtU2V0KCdDVFBRdWVlbkZvcmNlJyk7Cg==</text>
+        <text encoding="base64">CXZhciBlbmFibGVkTW9kZWxzID0gZ2V0RW5hYmxlZE1vZGVscygpOwoJdmFyIGNvbnRleHQgPSB7CgkJcmFiYml0czogewoKCQl9Cgl9OwoJZm9yICh2YXIgaSA9IDA7IGkgPCBlbmFibGVkTW9kZWxzLmxlbmd0aDsgaSsrKSB7CgkJY29udGV4dFtdCgkJYWRDb250ZXh0LnNldENvbnRleHQoewoKCQl9KQoKCQljb250ZXh0LnJhYmJpdHMuaXNRdWVlbkRlc2t0b3BGb3JjZWQgPSBpc1VybFBhcmFtU2V0KCdDVFBRdWVlbkZvcmNlJyk7Cgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQljb250ZXh0LnJhYmJpdHMuaXNRdWVlbkRlc2t0b3BGb3JjZWQgPSBpc1VybFBhcmFtU2V0KCdDVFBRdWVlbkZvcmNlJyk7Cg==</text>
+        <text encoding="base64">CQljb250ZXh0LnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJKTsK</text>
+        <text encoding="base64">CQl2YXIga2V5ID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSEhYWRDb250ZXh0LmdldCgncmFiYml0cy5pc1F1ZWVuRGVza3RvcEZvcmNlZCcpIHx8Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJLm1hcChmdW5jdGlvbihtb2RlbCkgeyByZXR1cm4gbW9kZWwucHJlZGljdCgpOyB9KVswXTsK</text>
+        <text encoding="base64">CWNvbnRleHQucmFiYml0cy5pc1F1ZWVuRGVza3RvcEZvcmNlZCA9IGlzVXJsUGFyYW1TZXQoJ0NUUFF1ZWVuRm9yY2UnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rabbit</last-search>
+      <last-search encoding="base64">XDxxc1w+</last-search>
       <last-offset />
-      <last-pattern>rabbit</last-pattern>
+      <last-pattern encoding="base64">XDxxc1w+</last-pattern>
       <last-replace>Disabled</last-replace>
       <last-substitute>Stopped</last-substitute>
       <last-dir>1</last-dir>
@@ -512,9 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
-        <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
-        <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
         <entry encoding="base64">XDxkZWZpbmVkU2xvdHNcPg==</entry>
         <entry>'</entry>
         <entry>add</entry>
@@ -532,6 +550,9 @@
         <entry>Forceds</entry>
         <entry>Forced</entry>
         <entry>rabbit</entry>
+        <entry encoding="base64">XDx3XD4=</entry>
+        <entry encoding="base64">XDxRdWVyeXN0cmluZ1w+</entry>
+        <entry encoding="base64">XDxxc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
