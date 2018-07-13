@@ -16,10 +16,12 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/public/index.html" timestamp="1531398786921">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/public/index.html" timestamp="1531479791193">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" timestamp="1531219427911">
         <mark key="'" line="19" column="16" />
@@ -33,6 +35,9 @@
         <mark key="]" line="8" column="37" />
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" timestamp="1531405000755">
+        <mark key="'" line="2551" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
         <mark key="'" line="0" column="0" />
@@ -87,6 +92,13 @@
         <mark key="." line="3" column="76" />
         <mark key="^" line="3" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ad.vue" timestamp="1531480132431">
+        <mark key="'" line="89" column="8" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="39" />
+        <mark key="^" line="89" column="8" />
+        <mark key="." line="51" column="39" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/markup.js" timestamp="1531215495481">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="36" />
@@ -106,10 +118,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/manifest.json" timestamp="1531399133354">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/manifest.json" timestamp="1531480023094">
+        <mark key="[" line="3" column="73" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
         <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/adeng-chrome-extension/extension/markup.js" timestamp="1531294533770">
@@ -145,6 +157,18 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ads.vue" timestamp="1531479815664">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/babel.config.js" timestamp="1531480093049">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="^" line="4" column="2" />
+        <mark key="." line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.js" timestamp="1531387690412">
         <mark key="'" line="39" column="12" />
@@ -213,7 +237,7 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531399857460">
+      <file name="/Dummy.txt" timestamp="1531480227375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/App.vue" timestamp="1531398722717">
@@ -370,6 +394,32 @@
       <jump line="11" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" />
       <jump line="17" column="32" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" />
       <jump line="214" column="36" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
+      <jump line="8" column="17" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="756" column="19" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="758" column="79" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="761" column="12" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="762" column="6" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="763" column="6" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="764" column="6" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="1284" column="6" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="1286" column="62" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="1292" column="4" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="1293" column="4" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2526" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2528" column="57" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2536" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2538" column="61" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2540" column="8" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2542" column="21" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2544" column="56" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2549" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="2551" column="63" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/public/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/public/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ad.vue" />
+      <jump line="88" column="8" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ad.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ads.vue" />
+      <jump line="49" column="0" filename="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ads.vue" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -382,8 +432,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQknYm90dG9tX2xlYWRlcmJvYXJkJywK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -448,10 +498,10 @@
         <text>com</text>
       </register>
       <register name="/" type="4">
-        <text>Forced</text>
+        <text>eslint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCW5ldyBjaHJvbWUuZGVjbGFyYXRpdmVDb250ZW50LlBhZ2VTdGF0ZU1hdGNoZXIoeyBwYWdlVXJsOiB7aG9zdFN1ZmZpeDogJ3dpa2lhLmNvbSd9IH0pLAo=</text>
+        <text encoding="base64">CQkJCQknYm90dG9tX2xlYWRlcmJvYXJkJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,37 +515,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gZm91bmQgaW4gdGhlIExJQ0VOU0UgZmlsZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gVXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYSBCU0Qtc3R5bGUgbGljZW5zZSB0aGF0IGNhbiBiZQo=</text>
+        <text encoding="base64">Ly8gZm91bmQgaW4gdGhlIExJQ0VOU0UgZmlsZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQ29weXJpZ2h0IDIwMTggVGhlIENocm9taXVtIEF1dGhvcnMuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
+        <text encoding="base64">Ly8gVXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYSBCU0Qtc3R5bGUgbGljZW5zZSB0aGF0IGNhbiBiZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly8qLndpa2lhLWRldi5wbC8qIgo=</text>
+        <text encoding="base64">Ly8gQ29weXJpZ2h0IDIwMTggVGhlIENocm9taXVtIEF1dGhvcnMuIEFsbCByaWdodHMgcmVzZXJ2ZWQuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAid2ViX2FjY2Vzc2libGVfcmVzb3VyY2VzIjogWwogICAgImRpc3QvKiIKICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAiaHR0cHM6Ly8qLndpa2lhLWRldi5wbC8qIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0iaWNvbiIgaHJlZj0iPCU9IEJBU0VfVVJMICU+ZmF2aWNvbi5pY28iPgo=</text>
+        <text encoding="base64">ICAid2ViX2FjY2Vzc2libGVfcmVzb3VyY2VzIjogWwogICAgImRpc3QvKiIKICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Forced</last-search>
+      <last-search>eslint</last-search>
       <last-offset />
-      <last-pattern>Forced</last-pattern>
+      <last-pattern>eslint</last-pattern>
       <last-replace>Disabled</last-replace>
       <last-substitute>Stopped</last-substitute>
       <last-dir>1</last-dir>
@@ -503,9 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry>traffic</entry>
-        <entry>verticvalName</entry>
-        <entry>verticalName</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
         <entry encoding="base64">XDxhZFNsb3RcPg==</entry>
@@ -523,6 +570,9 @@
         <entry encoding="base64">XDxnZXRVYXBJZFw+</entry>
         <entry encoding="base64">XDx1YXBJZFw+</entry>
         <entry encoding="base64">XDxzZXRVYXBJZFw+</entry>
+        <entry>lint</entry>
+        <entry>es-lint</entry>
+        <entry>eslint</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
