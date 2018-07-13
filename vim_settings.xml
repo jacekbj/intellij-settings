@@ -123,8 +123,8 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531394058141">
-        <mark key="'" line="214" column="36" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531461983275">
+        <mark key="'" line="110" column="35" />
         <mark key="[" line="96" column="77" />
         <mark key="]" line="96" column="77" />
         <mark key="^" line="96" column="60" />
@@ -378,6 +378,7 @@
       <jump line="17" column="32" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/ctp/queenDesktop.js" />
       <jump line="214" column="36" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
       <jump line="37" column="6" filename="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" />
+      <jump line="110" column="35" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -511,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>traffic</entry>
-        <entry>verticvalName</entry>
         <entry>verticalName</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxjb3JyZWxhdG9yXD4=</entry>
@@ -531,6 +530,8 @@
         <entry encoding="base64">XDxnZXRVYXBJZFw+</entry>
         <entry encoding="base64">XDx1YXBJZFw+</entry>
         <entry encoding="base64">XDxzZXRVYXBJZFw+</entry>
+        <entry>Forceds</entry>
+        <entry>Forced</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
