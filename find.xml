@@ -13,7 +13,7 @@
     <mask>*.mxml</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.spec.js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
