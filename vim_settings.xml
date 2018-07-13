@@ -99,17 +99,17 @@
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531467565029">
-        <mark key="[" line="51" column="70" />
-        <mark key="]" line="62" column="54" />
-        <mark key="." line="62" column="54" />
-        <mark key="^" line="62" column="54" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531470470609">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531406616813">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="14" column="46" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531470530786">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/manifest.json" timestamp="1531399133354">
         <mark key="[" line="21" column="16" />
@@ -123,10 +123,10 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531466207116">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" timestamp="1531469113135">
         <mark key="'" line="162" column="42" />
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="51" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="21" />
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="4" />
       </file>
@@ -182,6 +182,9 @@
         <mark key="." line="6" column="52" />
         <mark key="^" line="6" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" timestamp="1531471390232">
+        <mark key="'" line="110" column="26" />
+      </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531230998294">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -227,6 +230,9 @@
         <mark key="]" line="11" column="40" />
         <mark key="." line="11" column="40" />
         <mark key="^" line="11" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/includes/wikia/Extensions.php" timestamp="1531470669915">
+        <mark key="'" line="1121" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/App.vue" timestamp="1531398722717">
         <mark key="[" line="12" column="25" />
@@ -311,12 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="2" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
-      <jump line="77" column="6" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
-      <jump line="78" column="2" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
-      <jump line="83" column="18" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
-      <jump line="58" column="12" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
       <jump line="87" column="18" filename="$USER_HOME$/Projects/ad-engine/src/services/context-service.js" />
       <jump line="17" column="33" filename="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" />
       <jump line="60" column="28" filename="$USER_HOME$/Projects/ad-engine/examples/slots/repeatable-slots/index.html" />
@@ -397,6 +397,26 @@
       <jump line="162" column="42" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/context/adContext.js" />
       <jump line="52" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" />
       <jump line="3" column="24" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/rabbit.spec.js" />
+      <jump line="100" column="70" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="1644" column="66" filename="$USER_HOME$/Projects/app/includes/wikia/Extensions.php" />
+      <jump line="218" column="28" filename="$USER_HOME$/Projects/app/includes/wikia/Extensions.php" />
+      <jump line="1121" column="20" filename="$USER_HOME$/Projects/app/includes/wikia/Extensions.php" />
+      <jump line="615" column="10" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="616" column="43" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="617" column="43" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="618" column="43" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="701" column="10" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="702" column="43" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="703" column="43" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="728" column="10" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="729" column="43" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="948" column="25" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="2308" column="17" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="2312" column="56" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="9" column="52" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="604" column="35" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="947" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
+      <jump line="110" column="26" filename="$USER_HOME$/Projects/app/extensions/wikia/AssetsManager/config.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,7 +430,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJKHF1ZWVuIGNhbiBiZSBmb3JjZWQgdG8gZW5hYmxlZCBzdGF0ZSBieSBxdWVyeSBwcmVzZW5jZQoJCQlvZiBxdWVyeSBwYXJhbSAiQ1RQUXVlZW5Gb3JjZSIpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -472,16 +492,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>querystring</text>
       </register>
       <register name="0" type="4">
-        <text>parseInt(qs.getVal(key), 10)</text>
+        <text>wikia.querystring</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJKHF1ZWVuIGNhbiBiZSBmb3JjZWQgdG8gZW5hYmxlZCBzdGF0ZSBieSBxdWVyeSBwcmVzZW5jZQoJCQlvZiBxdWVyeSBwYXJhbSAiQ1RQUXVlZW5Gb3JjZSIpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -492,37 +512,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsKCQkJY29uc29sZS5sb2cocXMuZ2V0VmFsKGtleSwgbnVsbCkpOwoJCQljb25zb2xlLmxvZyhwYXJzZUludChxcy5nZXRWYWwoa2V5KSwgMTApKTsK</text>
+        <text encoding="base64">CQlyZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsK</text>
+        <text encoding="base64">CQkJCSF0aGlzLmlzQXV0b3BsYXlEaXNhYmxlZEJ5UmFiYml0cygpICYmCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZmVhdHVyZWRWaWRlb0Nvb2tpZVNlcnZpY2UuZ2V0QXV0b3BsYXkoKSAhPT0gJzAnICYmCgkJCQkvLyBhZENvbnRleHQuaXNFbmFibGVkKCd3Z0FydGljbGVWaWRlb0F1dG9wbGF5Q291bnRyaWVzJykgJiYKCQkJCSF0aGlzLmlzQXV0b3BsYXlEaXNhYmxlZEJ5UmFiYml0cygpICYmCgkJCQkhaW5GZWF0dXJlZFZpZGVvQ2xpY2tUb1BsYXlBQlRlc3Q7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2cocXMuZ2V0VmFsKGtleSwgbnVsbCkpOwo=</text>
+        <text encoding="base64">CQkJKHF1ZWVuIGNhbiBiZSBmb3JjZWQgdG8gZW5hYmxlZCBzdGF0ZSBieSBxdWVyeSBwcmVzZW5jZQoJCQlvZiBxdWVyeSBwYXJhbSAiQ1RQUXVlZW5Gb3JjZSIpLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJdmFyIAo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsKCQkJY29uc29sZS5sb2cocXMuZ2V0VmFsKGtleSwgbnVsbCkpOwoJCQljb25zb2xlLmxvZyhwYXJzZUludChxcy5nZXRWYWwoa2V5KSwgMTApKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlpZiAobW9kZWxOYW1lKQo=</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2coa2V5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQlyZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">CQkJY29uc29sZS5sb2cocXMuZ2V0VmFsKGtleSwgbnVsbCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>querystring</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>querystring</last-pattern>
       <last-replace>Disabled</last-replace>
       <last-substitute>Stopped</last-substitute>
       <last-dir>1</last-dir>
@@ -530,26 +550,26 @@
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
-        <entry>add</entry>
-        <entry encoding="base64">XDx0cmFja2luZ1JvdXRlTmFtZVw+</entry>
-        <entry>slot</entry>
-        <entry>exte</entry>
-        <entry>span</entry>
-        <entry encoding="base64">XDxhZHNcPg==</entry>
-        <entry encoding="base64">XDxwYWdlUGFyYW1zRGF0YVw+</entry>
-        <entry>Page</entry>
         <entry>page</entry>
         <entry encoding="base64">XDxnZXRVYXBJZFw+</entry>
         <entry encoding="base64">XDx1YXBJZFw+</entry>
         <entry encoding="base64">XDxzZXRVYXBJZFw+</entry>
         <entry>Forceds</entry>
         <entry>Forced</entry>
-        <entry>rabbit</entry>
         <entry encoding="base64">XDx3XD4=</entry>
         <entry encoding="base64">XDxRdWVyeXN0cmluZ1w+</entry>
         <entry encoding="base64">XDxxc1w+</entry>
         <entry>set</entry>
+        <entry>jwplayer</entry>
+        <entry>autoplay\.js</entry>
+        <entry>autoplay</entry>
+        <entry>autoiplay</entry>
+        <entry>config</entry>
+        <entry>fv</entry>
+        <entry>feat</entry>
+        <entry>rabbits</entry>
+        <entry>rabbit</entry>
+        <entry>querystring</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
