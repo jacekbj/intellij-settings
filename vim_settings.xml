@@ -15,12 +15,12 @@
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/kargo.js" timestamp="1531740818837">
-        <mark key="'" line="37" column="23" />
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="40" column="52" />
-        <mark key="." line="40" column="52" />
-        <mark key="^" line="40" column="52" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/kargo.js" timestamp="1531742668885">
+        <mark key="'" line="36" column="23" />
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
+        <mark key="^" line="39" column="52" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
@@ -486,7 +486,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'_cGWUgEUv0T'</text>
+        <text>size</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -548,7 +548,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'_cGWUgEUv0T'</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>Prebid</text>
@@ -557,7 +557,7 @@
         <text encoding="base64">YWRDb250ZXh0LmdldCgnYmlkZGVycy5rYXJnbycpICYmICghYmFiRGV0ZWN0aW9uLmlzQmxvY2tpbmcoKSB8fCBhZENvbnRleHQuZ2V0KCdvcHRzLndhZElMJykp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXZhciBxcyA9IG5ldyBRdWVyeXN0cmluZygpOwo=</text>
+        <text encoding="base64">CQkJCQlwbGFjZW1lbnRJZDogCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -567,29 +567,29 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CXZhciBxcyA9IG5ldyBRdWVyeXN0cmluZygpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CQkJewoJCQkJCgkJCX0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQljb25zb2xlCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CSdleHQud2lraWEuYWRFbmdpbmUubWwuZGF0YVNvdXJjZUZhY3RvcnknCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJcmV0dXJuICgK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJLyoKCQkJRW5hYmxlIG9ubHkgb24gcGFnZSB3aXRoIEZWIG9uIG9hc2lzIHdpdGggcXVlZW4gZW5hYmxlZC4KCQkJICovCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJICYmCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJIXRoaXMuaXNBdXRvcGxheURpc2FibGVkQnlSYWJiaXRzKCkgJiYK</text>
+        <text encoding="base64">CQkJICYmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

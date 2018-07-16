@@ -12,9 +12,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>*.spec.js</mask>
+    <mask>*.json</mask>
     <mask>*.js</mask>
   </component>
 </application>
