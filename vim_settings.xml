@@ -15,12 +15,12 @@
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/kargo.js" timestamp="1531733331287">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="22" column="26" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/kargo.js" timestamp="1531740818837">
+        <mark key="'" line="37" column="23" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="40" column="52" />
+        <mark key="." line="40" column="52" />
+        <mark key="^" line="40" column="52" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/tooltip.css" timestamp="1531159370031">
         <mark key="[" line="17" column="10" />
@@ -188,6 +188,7 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="97" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/appnexusAst.js" timestamp="1531740645039" />
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/content.js" timestamp="1531398880047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -351,6 +352,7 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/aol.js" timestamp="1531740600377" />
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/plugin/background.js" timestamp="1531399815731">
         <mark key="[" line="5" column="98" />
         <mark key="]" line="5" column="99" />
@@ -371,7 +373,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="16" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/wikia.js" />
       <jump line="14" column="63" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="24" column="8" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="32" column="10" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
@@ -471,6 +472,7 @@
       <jump line="1029" column="20" filename="$USER_HOME$/Projects/app/includes/wikia/DefaultSettings.php" />
       <jump line="1032" column="18" filename="$USER_HOME$/Projects/app/includes/wikia/DefaultSettings.php" />
       <jump line="1042" column="20" filename="$USER_HOME$/Projects/app/includes/wikia/DefaultSettings.php" />
+      <jump line="37" column="23" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/kargo.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -483,8 +485,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXZhciBxcyA9IG5ldyBRdWVyeXN0cmluZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>'_cGWUgEUv0T'</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -546,7 +548,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ctpDesktopDataSource</text>
+        <text>'_cGWUgEUv0T'</text>
       </register>
       <register name="/" type="4">
         <text>Prebid</text>
