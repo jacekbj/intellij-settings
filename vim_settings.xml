@@ -61,6 +61,9 @@
         <mark key="." line="7" column="52" />
         <mark key="^" line="7" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/yarn.lock" timestamp="1531405000755">
+        <mark key="'" line="2551" column="63" />
+      </file>
       <file name="$USER_HOME$/Projects/ad-engine/README.md" timestamp="1530777371934">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="203" column="0" />
@@ -81,6 +84,9 @@
         <mark key="^" line="0" column="697" />
         <mark key="." line="0" column="697" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/prebid.js" timestamp="1531743642212">
+        <mark key="'" line="112" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/spec/ml/ctp/ctpMobileDataSource.spec.js" timestamp="1530862163398">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="14" column="66" />
@@ -88,6 +94,7 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/resources/prebid/prebid.min.js" timestamp="1531743555631" />
       <file name="$USER_HOME$/Projects/ad-engine/package.json" timestamp="1530779424878">
         <mark key="'" line="11" column="16" />
         <mark key="[" line="74" column="4" />
@@ -125,11 +132,6 @@
         <mark key="]" line="19" column="36" />
         <mark key="." line="19" column="36" />
         <mark key="^" line="19" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/ml/rabbit.js" timestamp="1531728450847">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/featured-video.jwplayer.autoplay.js" timestamp="1531728508837">
         <mark key="'" line="11" column="8" />
@@ -215,6 +217,7 @@
         <mark key="^" line="55" column="23" />
         <mark key="." line="55" column="23" />
       </file>
+      <file name="/adContext.js" timestamp="1531743602217" />
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/package.json" timestamp="1531398357487">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="57" />
@@ -233,11 +236,6 @@
         <mark key="]" line="110" column="67" />
         <mark key="." line="110" column="67" />
         <mark key="^" line="110" column="67" />
-      </file>
-      <file name="$USER_HOME$/Project/adeng-chrome-extension/extension/manifest.json" timestamp="1531230998294">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Project/adeng-chrome-extension/popup.css" timestamp="1531215327687">
         <mark key="[" line="0" column="0" />
@@ -284,11 +282,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1531737922862">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/App.vue" timestamp="1531398722717">
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/ad-engine/src/providers/gpt-provider.js" timestamp="1531122043748">
         <mark key="'" line="127" column="7" />
@@ -366,18 +359,8 @@
         <mark key="^" line="17" column="7" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/ArticleVideo/scripts/spec/featured-video.jwplayer.autoplay.spec.js" timestamp="1531392355586">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="63" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
-      <jump line="24" column="8" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
-      <jump line="32" column="10" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
-      <jump line="13" column="16" filename="$USER_HOME$/Project/adeng-chrome-extension/manifest.json" />
-      <jump line="35" column="14" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="39" column="0" filename="$USER_HOME$/Project/adeng-chrome-extension/markup.js" />
       <jump line="0" column="6" filename="$USER_HOME$/Projects/mobile-wiki/app/modules/ads/tracking/slot-tracker.js" />
       <jump line="0" column="14" filename="$USER_HOME$/Project/adeng-chrome-extension/adeng.html" />
@@ -473,6 +456,11 @@
       <jump line="1032" column="18" filename="$USER_HOME$/Projects/app/includes/wikia/DefaultSettings.php" />
       <jump line="1042" column="20" filename="$USER_HOME$/Projects/app/includes/wikia/DefaultSettings.php" />
       <jump line="37" column="23" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/adapters/kargo.js" />
+      <jump line="137" column="0" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/prebid.js" />
+      <jump line="28" column="8" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/prebid.js" />
+      <jump line="53" column="12" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/prebid.js" />
+      <jump line="106" column="72" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/prebid.js" />
+      <jump line="112" column="72" filename="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/lookup/prebid/prebid.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -551,7 +539,7 @@
         <text>size</text>
       </register>
       <register name="/" type="4">
-        <text>Prebid</text>
+        <text>bidders</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YWRDb250ZXh0LmdldCgnYmlkZGVycy5rYXJnbycpICYmICghYmFiRGV0ZWN0aW9uLmlzQmxvY2tpbmcoKSB8fCBhZENvbnRleHQuZ2V0KCdvcHRzLndhZElMJykp</text>
@@ -596,9 +584,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Prebid</last-search>
+      <last-search>bidders</last-search>
       <last-offset />
-      <last-pattern>Prebid</last-pattern>
+      <last-pattern>bidders</last-pattern>
       <last-replace>Disabled</last-replace>
       <last-substitute>Stopped</last-substitute>
       <last-dir>1</last-dir>
@@ -606,7 +594,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exte</entry>
         <entry>span</entry>
         <entry encoding="base64">XDxhZHNcPg==</entry>
         <entry encoding="base64">XDxwYWdlUGFyYW1zRGF0YVw+</entry>
@@ -626,6 +613,7 @@
         <entry>Ctp</entry>
         <entry>Rabbit</entry>
         <entry>Prebid</entry>
+        <entry>bidders</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
