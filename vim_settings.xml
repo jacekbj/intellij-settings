@@ -94,7 +94,7 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/resources/prebid/prebid.min.js" timestamp="1531752008488">
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/resources/prebid/prebid.min.js" timestamp="1531809482250">
         <mark key="'" line="11" column="527" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -125,6 +125,12 @@
         <mark key="]" line="3" column="76" />
         <mark key="." line="3" column="76" />
         <mark key="^" line="3" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/app/extensions/wikia/AdEngine/js/wrappers/prebid.js" timestamp="1531809813739">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/chrome-extensions/ads-summary/vue/src/components/Ad.vue" timestamp="1531480132431">
         <mark key="'" line="89" column="8" />
@@ -479,8 +485,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCX0KCQkJfSwK</text>
+      <register name="&quot;" type="4">
+        <text>isCMPEnabled</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -542,13 +548,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>isCMPEnabled</text>
       </register>
       <register name="/" type="4">
         <text>kargo</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">YWRDb250ZXh0LmdldCgnYmlkZGVycy5rYXJnbycpICYmICghYmFiRGV0ZWN0aW9uLmlzQmxvY2tpbmcoKSB8fCBhZENvbnRleHQuZ2V0KCdvcHRzLndhZElMJykp</text>
+      <register name="0" type="2">
+        <text encoding="base64">CXdpbi5sb2FkUHJlYmlkKGlzQ01QRW5hYmxlZCk7ICAvLyBUT0RPOiBSZXN0b3JlIHRoaXMgbGluZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCX0KCQkJfSwK</text>
